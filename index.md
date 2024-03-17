@@ -1,7 +1,7 @@
 ---
 ---
 
-The Transport Systems & Logistics Lab (TSL) focuses on the algorithms and models that enable the *design**, **management** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphasis is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
+The Transport Systems & Logistics Lab (TSL) focuses on the algorithms and models that enable the **design**, **management** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphasis is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
 
 Led by [**Dr Panagiotis Angeloudis**](https://www.imperial.ac.uk/people/p.angeloudis), our lab consists of a team of 15 researchers with expertise in **transportation**, **optimisation**, **machine learning** and **robotics**. We maintain strong collaborations with our network of academic collaborators, industrial partners and policymakers.
 
