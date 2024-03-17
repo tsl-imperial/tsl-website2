@@ -1,5 +1,5 @@
 ---
-title: Apply
+title: Join us
 nav:
   order: 4
   tooltip: Join us!
@@ -46,7 +46,7 @@ A variety of scholarships are available, and further information on key dates an
 - Scholarships offered by the **Department of Civil & Environmental Engineering** are advertised [**here**](https://www.imperial.ac.uk/civil-engineering/prospective-students/postgraduate-research-admissions-phd/department-scholarships/).
 
 
-Please keep in mind that these programs are highly competitive, and we will only nominate applicants who graduated with summa cum laude honors (top 1-3% of their year). Many of our students also receive funding through scholarship schemes from their home countries—please inform us if you have identified such a scheme.
+Please keep in mind that these programs are highly competitive, and we will only nominate applicants who graduated with summa cum laude honors (top 1-3% of their year). Many of our researchers also receive funding through scholarship schemes from their home countries.
 
 
 ##### When should I submit my application?

@@ -21,43 +21,32 @@ Our objective is to advance the adoption of automation technologies to increase 
 
 {% include section.html %}
 
-## Highlights
+
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on how transportation systems can become more efficient, safe and resilient, focusing on the three interlinked strands of **vehicle autonomy**, **modelling** and **control** for **strategic and tactical decision- aking**. We use advanced models that incorporate the effects of operational uncertainty (future demand, operational disruptions, targetted attacks) in decision-making. 
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our work on tactical decision-making under uncertainty has sought solutions to these problems through **mathematical optimisation**, **reinforcement learning**, **network modelling**, and bespokely developed high performance **agent based modelling** tools.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
+
+{%
+  include button.html
+  link="research"
+  text="Recent publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 
 {% endcapture %}
 
@@ -65,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/img_research.jpeg"
   link="projects"
-  title="Our Projects"
+  title="Our Research"
   flip=true
   style="bare"
   text=text
@@ -73,7 +62,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research team is driven by curiousity and zeal for technical challenges. We nurture emerging engineering tallent within a collaborative environment,  within an engaging, cooperative, and team-focused atmosphere. 
+
+Our members benefit from strong connections with other laboratories within the Imperial College community, international collaborators, and industry partners, enriching our research and development endeavors. Our alumni have gone on to achieve success in academia, secure influential roles in industry, or launch their own startups.
+
+**Join us:** We are looking for motivated doctoral candidates to join our team, and contribute to the development of models and enabling technologies for transport systems and freight transport. Several sholarships are available for qualified applicants.
 
 {%
   include button.html
@@ -83,6 +76,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
+
+{%
+  include button.html
+  link="apply"
+  text="Join us"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 
 {% endcapture %}
 
