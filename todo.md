@@ -1,0 +1,1 @@
+1. Make the subtitle in the logo always below
