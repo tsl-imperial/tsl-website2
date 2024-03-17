@@ -54,8 +54,8 @@
   date: '2023-01-01'
   link: https://doi.org/gtm4h9
   orcid: 0000-0002-6778-8264
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/21680566.2020.1851312
   title: Dynamic modelling and optimisation of transportation systems in the connected
     era
@@ -251,6 +251,9 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
+  image: /images/papers/highlight-redist.png
+  group:
+  - featured
 - id: doi:10.3390/su13010168
   title: 'On the Selection of Charging Facility Locations for EV-Based Ride-Hailing
     Services: A Computational Case Study'
@@ -267,8 +270,8 @@
   date: '2020-12-26'
   link: https://doi.org/gh5v4z
   orcid: 0000-0002-6778-8264
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/10286608.2020.1827396
   title: A research agenda on systems approaches to infrastructure
   authors:
@@ -296,8 +299,8 @@
   date: '2020-01-01'
   link: https://doi.org/gtm4jf
   orcid: 0000-0002-6778-8264
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.trc.2019.11.002
   title: Optimal hub selection for rapid medical deliveries using unmanned aerial
     vehicles
@@ -351,8 +354,8 @@
   date: '2020-04-23'
   link: https://doi.org/gtm4jj
   orcid: 0000-0002-6778-8264
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00291-020-00602-z
   title: Endogenous stochastic optimisation for relief distribution assisted with
     unmanned aerial vehicles
@@ -366,8 +369,8 @@
   date: '2020-08-18'
   link: https://doi.org/gtm4jk
   orcid: 0000-0002-6778-8264
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ITSC45102.2020.9294527
   title: Intelligent Management of On-street Parking Provision for the Autonomous
     Vehicles Era
@@ -411,6 +414,9 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
+  image: /images/papers/highlight-supply-res.png
+  group:
+  - featured
 - id: doi:10.1108/ECAM-01-2020-0058
   title: Understanding and visualizing schedule deviations in construction projects
     using fault tree analysis
@@ -423,8 +429,8 @@
   date: '2020-05-05'
   link: https://doi.org/gtm4jn
   orcid: 0000-0002-6778-8264
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.trc.2020.01.023
   title: Urban network-wide traffic speed estimation with massive ride-sourcing GPS
     traces
@@ -438,8 +444,8 @@
   date: '2020-03-01'
   link: https://doi.org/gtm4jp
   orcid: 0000-0002-6778-8264
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.autcon.2019.102898
   title: Risk-averse supply chain for modular construction projects
   authors:
@@ -465,6 +471,9 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
+  image: /images/papers/highlight-urban.png
+  group:
+  - featured
 - id: doi:10.1016/j.aap.2016.04.030
   title: 'Modelling the impact of liner shipping network perturbations on container
     cargo routing: Southeast Asia to Europe application'
@@ -482,6 +491,9 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
+  image: /images/papers/highlight-container-disruption.png
+  group:
+  - featured
 - id: doi:10.1109/ITSC.2019.8917399
   title: Simulation and Evaluation of CAVs Behavior in an Isolated Signalized Intersection
     Equipped with Dynamic Wireless Power Transfer System
@@ -856,6 +868,59 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.jairtraman.2023.102486
+  title: 'An integrated vertiport placement model considering vehicle sizing and queuing:
+    A case study in London'
+  authors:
+  - Jose Escribano Macias
+  - Carl Khalife
+  - Joseph Slim
+  - Panagiotis Angeloudis
+  publisher: Journal of Air Transport Management
+  date: '2023-10-01'
+  link: https://doi.org/gtm6f5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.patcog.2023.109633
+  title: Dual-branch spatio-temporal graph neural networks for pedestrian trajectory
+    prediction
+  authors:
+  - Xingchen Zhang
+  - Panagiotis Angeloudis
+  - Yiannis Demiris
+  publisher: Pattern Recognition
+  date: '2023-10-01'
+  link: https://doi.org/gtm6f6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2023.103234
+  title: 'Route planning for last-mile deliveries using mobile parcel lockers: A hybrid
+    q-learning network approach'
+  authors:
+  - Yubin Liu
+  - Qiming Ye
+  - Jose Escribano-Macias
+  - Yuxiang Feng
+  - Eduardo Candela
+  - Panagiotis Angeloudis
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2023-09-01'
+  link: https://doi.org/gtm6f7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/23249935.2023.2246586
+  title: Safe and efficient manoeuvring for emergency vehicles in autonomous traffic
+    using multi-agent proximal policy optimisation
+  authors:
+  - Leandro Parada
+  - Eduardo Candela
+  - Luis Marques
+  - Panagiotis Angeloudis
+  publisher: 'Transportmetrica A: Transport Science'
+  date: '2023-08-16'
+  link: https://doi.org/gtm6f8
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.patter.2023.100730
   title: Understanding common human driving semantics for autonomous vehicles
   authors:
@@ -877,6 +942,24 @@
   publisher: Patterns
   date: '2023-07-01'
   link: https://doi.org/gtm4g6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.artint.2023.103923
+  title: Risk-aware controller for autonomous vehicles using model-based collision
+    prediction and reinforcement learning
+  authors:
+  - Eduardo Candela
+  - Olivier Doustaly
+  - Leandro Parada
+  - Felix Feng
+  - Yiannis Demiris
+  - Panagiotis Angeloudis
+  publisher: Artificial Intelligence
+  date: '2023-07-01'
+  link: https://doi.org/gtm6f9
+  image: /images/papers/highlight-edu-jai.png
+  group:
+  - featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s41072-019-0043-8
@@ -920,18 +1003,128 @@
   link: https://doi.org/gtm4hq
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/ARXIV.2011.11085
-  title: Identifying Critical Fleet Sizes Using a Novel Agent-Based Modelling Framework
-    for Autonomous Ride-Sourcing
+- id: doi:10.1109/ITSC57777.2023.10422131
+  title: Real-time Dispatching for Autonomous Vehicles in Open-pit Mining Deployments
+    using Deep Reinforcement Learning
   authors:
-  - Renos Karamanis
-  - He-in Cheong
-  - Simon Hu
-  - Marc Stettler
+  - Kenta Matsui
+  - Jose Escribano
   - Panagiotis Angeloudis
-  publisher: arXiv
-  date: '2020-01-01'
-  link: https://doi.org/gtm4hr
+  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2023-09-24'
+  link: https://doi.org/gtm6gb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC57777.2023.10422153
+  title: 'Safety Standards for Autonomous Vehicles: Challenges and Way Forward'
+  authors:
+  - Elias Nassif
+  - Hanlin Tian
+  - Eduardo Candela
+  - Yuxiang Feng
+  - Panagiotis Angeloudis
+  - Washington Y. Ochieng
+  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2023-09-24'
+  link: https://doi.org/gtm6gc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC57777.2023.10422528
+  title: 'Scenario Gym: A Scenario-Centric Lightweight Simulator'
+  authors:
+  - Hamish Scott
+  - Lorenzo Niccolini
+  - Chess Stetson
+  - Nils Goldbeck
+  - Ioannis Souflas
+  - Noyan Songur
+  - Alireza Ahrabian
+  - Eduardo Candela
+  - Panagiotis Angeloudis
+  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2023-09-24'
+  link: https://doi.org/gtm6gd
+  image: /images/papers/highlight-scenario.png
+  group:
+  - featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC57777.2023.10422114
+  title: Bi-Level Programming Approach for Optimal Charging Station Location and Traffic
+    Assignment in Electric Autonomous Vehicle Systems
+  authors:
+  - Run Hu
+  - Zheyi Tang
+  - Qinru Hu
+  - Xiaoxiang Na
+  - Panagiotis Angeloudis
+  - Der-Horng Lee
+  - Simon Hu
+  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2023-09-24'
+  link: https://doi.org/gtm6gf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC57777.2023.10422217
+  title: An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles
+    in Occluded Scenarios
+  authors:
+  - Leandro Parada
+  - Hanlin Tian
+  - Jose Escribano
+  - Panagiotis Angeloudis
+  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2023-09-24'
+  link: https://doi.org/gtm6gg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC57777.2023.10421826
+  title: Driving Style Classification Using Deep Temporal Clustering with Enhanced
+    Explainability
+  authors:
+  - Yuxiang Feng
+  - Qiming Ye
+  - Fahmy Adan
+  - Luis Marques
+  - Panagiotis Angeloudis
+  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2023-09-24'
+  link: https://doi.org/gtm6gh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC57777.2023.10422440
+  title: Constrained Multi-Agent Reinforcement Learning Policies for Cooperative Intersection
+    Navigation and Traffic Compliance
+  authors:
+  - Fahmy Adan
+  - Yuxiang Feng
+  - Panagiotis Angeloudis
+  - Mohammed Quddus
+  - Washington Ochieng
+  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2023-09-24'
+  link: https://doi.org/gtm6gj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC57777.2023.10422636
+  title: 'Quantifying the Capability of Autonomous Robot-Assisted Distribution in
+    Last-Mile: Insight from Rural to Urban Configurations'
+  authors:
+  - Yubin Liu
+  - Keyang Zhang
+  - Jose Escribano-Macias
+  - Panagiotis Angeloudis
+  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2023-09-24'
+  link: https://doi.org/gtm6gk
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/ARXIV.2203.11653

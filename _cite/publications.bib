@@ -1,10 +1,46 @@
-@article{zhanx2022pedtraj,
-  author    = {Zhang X and Angeloudis P and Demiris Y},
-  title     = {Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction},
-  year      = {2023},
-  journal   = {Pattern Recognition},
-  publisher = {In Press}
+@article{ESCRIBANOMACIAS2023102486,
+title = {An integrated vertiport placement model considering vehicle sizing and queuing: A case study in London},
+journal = {Journal of Air Transport Management},
+volume = {113},
+pages = {102486},
+year = {2023},
+issn = {0969-6997},
+doi = {https://doi.org/10.1016/j.jairtraman.2023.102486},
+url = {https://www.sciencedirect.com/science/article/pii/S0969699723001291},
+author = {Jose {Escribano Macias} and Carl Khalife and Joseph Slim and Panagiotis Angeloudis},
+keywords = {Vertiport placement, Urban air mobility, Queuing theory, Vehicle sizing},
+abstract = {The increasing level of congestion and infrastructure costs in cities have created a need for more intelligent and flexible transport systems. Urban Air Mobility (UAM) introduces the third dimension to intra-urban transport at a minimal infrastructure cost, bypassing congestion and providing reliable travel times to users through the provision of air passenger transportation. The performance of UAM systems is highly dependent on vertiport locations, vehicle sizing and infrastructure specifications, which themselves are intrinsically linked. This study takes a holistic approach to UAM network optimisation by considering the inter-relatedness of these decisions in a three-stage algorithm. In the first stage, a linear vertiport placement model with vehicle sizing constraints is developed to determine the optimal vertiport configuration while considering eVTOL performance. The vertiport configuration serves to determine the operational requirements of the aircraft and are incorporated in the vehicle sizing models. The resulting network configuration and vehicle sizing constraints are used as inputs in the infrastructure model, which utilises open network theory to determine the service rate requirements and the allowed loiter and waiting times based on the number of take-off, landing, and charging pads at each vertiport. These stages are executed sequentially through a feedback mechanism, which balances the infrastructure, operational costs as well as passenger waiting times. The algorithm optimises the profitability of the UAM network ensuring all operational constraints are satisfied. A case study based on the hypothetical implementation of UAM in the city of London is presented using Rolling Origin and Destination Survey data to estimate demand patterns. Our results suggest that ignoring vehicle sizing and infrastructure modelling in the network optimisation stage results in infeasible UAM networks. Furthermore, reducing waiting times and loiter times are critical to reduce operational costs of the UAM network, with all optimal configurations yielding waiting times below 5% of the total flight time. The proposed method can be used to plan future UAM developments whilst ensuring operational viability.}
 }
+
+@article{Xia2023,
+  title = {Future reductions of China’s transport emissions impacted by changing driving behaviour},
+  volume = {6},
+  ISSN = {2398-9629},
+  url = {http://dx.doi.org/10.1038/s41893-023-01173-x},
+  DOI = {10.1038/s41893-023-01173-x},
+  number = {10},
+  journal = {Nature Sustainability},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Xia,  Yingji and Liao,  Chenlei and Chen,  Xiqun and Zhu,  Zheng and Chen,  Xiaorui and Wang,  Lixing and Jiang,  Rui and Stettler,  Marc E. J. and Angeloudis,  Panagiotis and Gao,  Ziyou},
+  year = {2023},
+  month = jul,
+  pages = {1228–1236}
+}
+
+@article{ZHANG2023109633,
+title = {Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction},
+journal = {Pattern Recognition},
+volume = {142},
+pages = {109633},
+year = {2023},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2023.109633},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320323003345},
+author = {Xingchen Zhang and Panagiotis Angeloudis and Yiannis Demiris},
+keywords = {Pedestrian trajectory prediction, Social interactions, Graph convolutional networks, Graph attention networks, Spatio-temporal graph},
+abstract = {Pedestrian trajectory prediction is an important area in computer vision, with wide applications in autonomous driving, robot path planning, and surveillance systems. The core underlying technique of these applications is pattern recognition. A key challenge in this area is modeling social interactions between pedestrians, such as pedestrian view area and group behaviors. However, although many methods have been proposed to model social interactions, pedestrian view area and group behaviors have not been explored together to account for complex situations. Additionally, most existing studies require additional detectors and manual annotations to handle view area and group interactions, respectively. In this paper, we propose a dual-branch spatio-temporal graph neural network to automatically model view area and grouping together. Specifically, a spatio-temporal graph attention network (STGAT) branch is designed to handle pedestrian view area, and a spatio-temporal graph convolutional network (STGCN) branch is designed to model group interactions. The features of these branches are then fused to provide better feature representations, on which a temporal convolution operation (TCN) is performed for trajectory prediction. Experiments on public standard datasets demonstrate that the proposed method achieves very competitive performance and predicts socially acceptable trajectories in different challenging scenarios.}
+}
+
 
 @article{cheong2023,
   author    = {He-in Cheong and Escribano-Macias J and Renos Karamanis and Marc Stettler and Arnab Majumdar and Angeloudis P},
@@ -26,6 +62,37 @@
   Experimental results using a simulator and state-of-the-art RL algorithms show that risk-awareness can decrease collision rates, and that makes AVs more robust to sudden harsh braking situations. The proposed collision prediction model also outperforms other collision models in the literature. Moreover, the risk-aware RL-based framework achieves better performance in both safety and speed when compared to a standard rule-based method, the  Intelligent Driver Model (IDM).}
 }
 
+@article{LIU2023103234,
+title = {Route planning for last-mile deliveries using mobile parcel lockers: A hybrid q-learning network approach},
+journal = {Transportation Research Part E: Logistics and Transportation Review},
+volume = {177},
+pages = {103234},
+year = {2023},
+issn = {1366-5545},
+doi = {https://doi.org/10.1016/j.tre.2023.103234},
+url = {https://www.sciencedirect.com/science/article/pii/S1366554523002223},
+author = {Yubin Liu and Qiming Ye and Jose Escribano-Macias and Yuxiang Feng and Eduardo Candela and Panagiotis Angeloudis},
+keywords = {Mobile Parcel Lockers, Urban Logistics, Last-Mile Delivery, Location Routing Problem, Reinforcement Q-Learning},
+abstract = {Mobile parcel lockers (MPLs) have been recently proposed by logistics operators as a technology that could help reduce traffic congestion and operational costs in urban freight distribution. Given their ability to relocate throughout their area of deployment, they hold the potential to improve customer accessibility and convenience. In this study, we formulate the Mobile Parcel Locker Problem (MPLP), a special case of the Location-Routing Problem (LRP) which determines the optimal stopover location for MPLs throughout the day and plans corresponding delivery routes. A Hybrid Q-Learning-Network-based Method (HQM) is developed to resolve the computational complexity of the resulting large problem instances while escaping local optima. In addition, the HQM is integrated with global and local search mechanisms to resolve the dilemma of exploration and exploitation faced by classic reinforcement learning (RL) methods. We examine the performance of HQM under different problem sizes (up to 200 nodes) and benchmarked it against the exact approach and Genetic Algorithm (GA). Our results indicate that HQM achieves better optimisation performance with shorter computation time than the exact approach solved by the Gurobi solver in large problem instances. Additionally, the average reward obtained by HQM is 1.96 times greater than GA’s, which demonstrates that HQM has a better optimisation ability. Further, we identify critical factors that contribute to fleet size requirements, travel distances, and service delays. Our findings outline that the efficiency of MPLs is mainly contingent on the length of time windows and the deployment of MPL stopovers. Finally, we highlight managerial implications based on parametric analysis to provide guidance for logistics operators in the context of efficient last-mile distribution operations.}
+}
+
+
+
+
+@article{doi:10.1080/23249935.2023.2246586,
+author = {Leandro Parada, Eduardo Candela, Luis Marques and Panagiotis Angeloudis},
+title = {Safe and efficient manoeuvring for emergency vehicles in autonomous traffic using multi-agent proximal policy optimisation},
+journal = {Transportmetrica A: Transport Science},
+volume = {0},
+number = {0},
+pages = {1-29},
+year = {2023},
+publisher = {Taylor & Francis},
+doi = {10.1080/23249935.2023.2246586},
+}
+
+
+
 
 @article{2023xiqDrivingSemantics,
   title   = {Understanding common human driving semantics for autonomous vehicles},
@@ -38,6 +105,32 @@
   author  = {Yingji Xia and Maosi Geng and Yong Chen and Sudan Sun and Chenlei Liao and Zheng Zhu and Zhihui Li and Washington Yotto Ochieng and Angeloudis P and Mireille Elhajj and Lei Zhang and Zhenyu Zeng and Bing Zhang and Ziyou Gao and Xiqun (Michael) Chen},
   abstract = {Autonomous vehicles will share roads with human-driven vehicles until the transition to fully autonomous transport systems is complete. The critical challenge of improving mutual understanding between both vehicle types cannot be addressed only by feeding extensive driving data into data-driven models but by enabling autonomous vehicles to understand and apply common driving behaviors analogous to human drivers. Therefore, we designed and conducted two electroencephalography experiments for comparing the cerebral activities of human linguistics and driving understanding. The results showed that driving activates hierarchical neural functions in the auditory cortex, which is analogous to abstraction in linguistic understanding. Subsequently, we proposed a neural-informed, semantics-driven framework to understand common human driving behavior in a brain-inspired manner. This study highlights the pathway of fusing neuroscience into complex human behavior understanding tasks and provides a computational neural model to understand human driving behaviors, which will enable autonomous vehicles to perceive and think like human drivers.}
 }
+
+
+@article{CANDELA2023103923,
+title = {Risk-aware controller for autonomous vehicles using model-based collision prediction and reinforcement learning},
+journal = {Artificial Intelligence},
+volume = {320},
+pages = {103923},
+year = {2023},
+issn = {0004-3702},
+doi = {https://doi.org/10.1016/j.artint.2023.103923},
+url = {https://www.sciencedirect.com/science/article/pii/S0004370223000693},
+author = {Eduardo Candela and Olivier Doustaly and Leandro Parada and Felix Feng and Yiannis Demiris and Panagiotis Angeloudis},
+keywords = {Autonomous vehicles, Decision making, Risk-aware AI, Reinforcement learning, Model-based prediction, Explainable AI},
+abstract = {Autonomous Vehicles (AVs) have the potential to save millions of lives and increase the efficiency of transportation services. However, the successful deployment of AVs requires tackling multiple challenges related to modeling and certifying safety. State-of-the-art decision-making methods usually rely on end-to-end learning or imitation learning approaches, which still pose significant safety risks. Hence the necessity of risk-aware AVs that can better predict and handle dangerous situations. Furthermore, current approaches tend to lack explainability due to their reliance on end-to-end Deep Learning, where significant causal relationships are not guaranteed to be learned from data. This paper introduces a novel risk-aware framework for training AV agents using a bespoke collision prediction model and Reinforcement Learning (RL). The collision prediction model is based on Gaussian Processes and vehicle dynamics, and is used to generate the RL state vector. Using an explicit risk model increases the post-hoc explainability of the AV agent, which is vital for reaching and certifying the high safety levels required for AVs and other safety-sensitive applications. Experimental results obtained with a simulator and state-of-the-art RL algorithms show that the risk-aware RL framework decreases average collision rates by 15%, makes AVs more robust to sudden harsh braking situations, and achieves better performance in both safety and speed when compared to a standard rule-based method (the Intelligent Driver Model). Moreover, the proposed collision prediction model outperforms other models in the literature.}
+}
+
+@ARTICLE{10155190,
+  author={Hu, Simon and Ye, Yin and Hu, Qinru and Liu, Xin and Cao, Shaosheng and Yang, Howard H. and Shen, Yongdong and Angeloudis, Panagiotis and Parada, Leandro and Wu, Chao},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={A Federated Learning-Based Framework for Ride-Sourcing Traffic Demand Prediction}, 
+  year={2023},
+  volume={72},
+  number={11},
+  pages={14002-14015},
+  keywords={Companies;Data models;Predictive models;Data privacy;Convolutional neural networks;Training;Privacy;Federated Learning;ride-sourcing demand prediction;privacy-preserving system;Shapley value},
+  doi={10.1109/TVT.2023.3287221}}
 
 
 @article{2023yeAdaptive,
@@ -124,6 +217,7 @@
   number    = {1},
   pages     = {168},
   year      = {2021},
+  doi      = {https://doi.org/10.3390/su13010168},
   publisher = {Multidisciplinary Digital Publishing Institute},
   abstract  = { To facilitate the monitoring and management of modern transportation systems, monocular visual traffic surveillance systems have been widely adopted in surveillance, speed measurement, accident detection, and accident prediction. Thanks to the recent innovations in computer vision and deep learning research, the performance of visual traffic surveillance systems has been significantly improved. However, despite this success, there is a lack of survey papers that systematically review these new methods. Therefore, we conduct a systematic review of relevant studies to fill this gap and provide guidance to future studies. This paper is structured along the visual information processing pipeline that includes object detection, object tracking, and camera calibration. Moreover, we also include important applications of visual traffic surveillance systems, such as speed measurement, behaviour learning, accident detection and prediction. Finally, future research directions of visual traffic surveillance systems are outlined.}
 } 
@@ -165,6 +259,7 @@
   author   = {Hsu PY and Aurisicchio M and Angeloudis P and Whyte J},
   title    = {Understanding and Visualising Schedule Deviations in Construction Projects using Fault Tree Analysis},
   journal  = {Engineering, Construction and Architectural Management},
+  doi       = {https://doi.org/10.1108/ECAM-01-2020-0058},
   year     = {2020},
   abstract = {Delays in construction projects are both disruptive and expensive. Thus, potential causes of schedule deviation need to be identified and mitigated. In previous research, delay factors were predominantly identified through surveys administered to stakeholders in construction projects. Such delay factors are typically considered individually and presented at the same level without explicitly examining their sequence of occurrence and interrelationships. In reality, owing to the complex structure of construction projects and long execution time, non-conformance to schedule occurs by a chain of cascading events. An understanding of these linkages is important not only for minimising the delays, but also for revealing the liability of stakeholders. To explicitly illustrate the cause-effect and logical relationship between delay factors and further identify the primary factors which possess the highest significance toward the overall project schedule delay, the fault tree analysis (FTA) method, a widely implemented approach to root cause problems in safety-critical systems, has been systematically and rigorously executed.}
 }
@@ -173,6 +268,7 @@
   author   = {Escribano-Macias J and Goldbeck N and Hsu PY and Angeloudis P and Ochieng W},
   title    = {Endogenous stochastic optimisation for relief distribution assisted with Unmanned Aerial Vehicles},
   journal  = {OR Spectrum},
+  doi      = {10.1007/s00291-020-00602-z}
   year     = {2020},
   abstract = { Unmanned Aerial Vehicles (UAVs) are being increasingly integrated into humanitarian operations given the growing economic pressure on organisations providing disaster relief. Among other applications, UAV-based damage assessment during relief delivery has been the focus of respondents, yet there is a lack of research into formalising a problem that considers both aspects simultaneously. This paper presents a novel endogenous stochastic vehicle routing problem that coordinates UAV deployments and relief vehicle dispatches to minimise overall mission cost. The algorithm considers uncertain damage levels in a transport network, with UAVs revealing actual damage levels by performing rapid network assessment. Ground vehicles are simultaneously routed based on the information gathered by the UAVs. A greedy extact solution approach and an adapted Genetic Algorithm are used to solve a case study based on the 2010 Haiti earthquake. Both approaches provide significant improvements in vehicle travel time over a deterministic approach reported, and are used to quantify the benefits of UAV-assisted response.}
 }
@@ -181,6 +277,7 @@
   author   = {Otero A and Escribano-Macias J and Angeloudis P},
   title    = {Design of hospital delivery networks using unmanned aerial vehicles},
   journal  = {Transportation Research Record},
+  doi      = {https://doi.org/10.1177/0361198120915891}
   year     = {2020},
   abstract = {Unmanned Aerial Vehicles (UAVs) are being increasingly implemented in a range of applications. Their low payload capacity and ability to overcome congested road networks enables them to provide fast delivery services for urgent high-value low-volume cargo. This work investigates the economic viability of integrating UAVs into urban hospital supply chains. In doing so, a strategic model that determines the optimal configuration of supporting infrastructure for urgent UAV delivery between hospitals is proposed. The model incorporates a tailored facility location algorithm that selects an optimal number of hubs given a set of candidates and determines the number of UAVs required to fulfil total demand. The objective is to minimize the total cost of implementation, computed as the sum of generalised, battery, vehicle and hub establishment costs. The model is applied to a case study based on the establishment of a UAV delivery network for deliveries between NHS hospitals in London. A baseline scenario is also developed using current NHS vehicles for delivery. Our results demonstrate that UAV-based delivery provide significant reductions in operational costs compared to the baseline. Furthermore, our analysis indicates the location of hubs is more significant to the solution optimality than any increase in range or payload.}
 }
@@ -189,6 +286,7 @@
   author   = {Escribano-Macias J and Angeloudis P and Ochieng W},
   title    = {Optimal Design of Rapid Evacuation Strategies in Constrained Urban Transport Networks},
   journal  = {Transportmetrica A: Transport Science},
+  doi      = {https://doi.org/10.1080/23249935.2020.1725179}
   year     = {2020},
   abstract = {Large-scale evacuations constitute common life-saving exercises that are activated in many disaster response campaigns. Their effectiveness is often inhibited by traffic congestion, disrupted and imperfect coordination mechanisms, and the poor state of the underlying transportation networks. To address this problem, this paper presents a hybrid simulation-optimisation methodology to optimise evacuation response strategies through demand staging and signal phasing. We introduce a pre-planning model that evaluates evacuation policies, using a low-level dynamic traffic assignment model that captures the effects of congestion, queuing and vehicle spillback. Optimal strategies are determined using derivative-free optimisation algorithms, applied to an evacuation problem based on a benchmark dataset. The effects of varying the number of activated paths and the frequency of departure under different network conditions are observed. Our analysis indicates that combined departure time scheduling and signal phasing is a promising method to improve evacuation efficiency when compared to a worst-case benchmark scenario.}
 }
@@ -199,13 +297,14 @@
   title    = {Optimal Hub Selection for Rapid Medical Deliveries using Unmanned Aerial Vehicles},
   doi      = {10.1016/j.trc.2019.11.002},
   year     = {2020},
-  abstract = {Unmanned Aerial Vehicles (UAVs) are being increasingly deployed in humanitarian response operations. Beyond regulations, vehicle range and integration with the humanitarian supply chain inhibit their deployment. To address these issues, we present a novel bi-stage operational planning approach that consists of a trajectory optimisation algorithm (that considers multiple flight stages), and a hub selection-routing algorithm that incorporates a new battery management heuristic. We apply the algorithm to a hypothetical response mission in Taiwan after the Chi-Chi earthquake of 1999 considering mission duration and distribution fairness. Our analysis indicates that UAV fleets can be used to provide rapid relief to populations of 20,000 individuals in under 24 h. Additionally, the proposed methodology achieves significant reductions in mission duration and battery stock requirements with respect to conservative energy estimations and other heuristics.}
+  abstract = {Unmanned Aerial Vehicles (UAVs) are being increasingly deployed in humanitarian response operations. Beyond regulations, vehicle range and integration with the humanitarian supply chain inhibit their deployment. To address these issues, we present a novel bi-stage operational planning approach that consists of a trajectory optimisation algorithm (that considers multiple flight stages), and a hub selection-routing algorithm that incorporates a new battery management heuristic. We apply the algorithm to a hypothetical response mission in Taiwan after the Chi-Chi earthquake of 1999 considering mission duration and distribution fairness. Our analysis indicates that UAV fleets can be used to provide rapid relief to populations of 20,000 individuals in under 24h. Additionally, the proposed methodology achieves significant reductions in mission duration and battery stock requirements with respect to conservative energy estimations and other heuristics.}
 }
 
 @article{2020Chen1,
   author   = {Chen X and Yu j and Stettler M and Angeloudis P and Hu J},
   title    = {Urban Network-Wide Traffic Speed Estimation with Massive Ride-Sourcing GPS Traces},
   journal  = {Transportation Research Part C: Emerging Technologies},
+  doi      = {https://doi.org/10.1016/j.trc.2020.01.023}
   year     = {2020},
   abstract = {The ability to obtain accurate estimates of city-wide urban traffic patterns is essential for the development of effective intelligent transportation systems and the efficient operation of smart mobility platforms. This paper focuses on the network-wide traffic speed estimation, using trajectory data generated by a city-wide fleet of ride-sourcing vehicles equipped with GPS-capable smartphones. A cell-based map-matching technique is proposed to link vehicle trajectories with road geometries, and to produce network-wide spatio-temporal speed matrices. Data limitations are addressed using the Schatten p-norm matrix completion algorithm, which can minimize speed estimation errors even with high rates of data unavailability. A case study using data from Chengdu, China, demonstrates that the algorithm performs well even in situations involving continuous data loss over a few hours, and consequently, addresses large-scale network-wide traffic state estimation problems with missing data, while at the same time outperforming other data recovery techniques that were used as benchmarks. Our approach can be used to generate congestion maps that can help monitor and visualize traffic dynamics across the network, and therefore form the basis for new traffic management, proactive congestion identification, and congestion mitigation strategies.}
 }
@@ -220,7 +319,6 @@
   doi      = {10.1016/j.tre.2019.101830},
   abstract = {The joint optimisation of investments in capacity and repair capability of production and logistics systems at risk of being damaged is an important aspect of supply chain resilience that is not sufficiently addressed by state-of-the-art modelling approaches. Furthermore, logistical issues of procuring repair resources impact speed of recovery but are not considered in most existing models. This paper presents a novel multi-stage stochastic programming model that optimizes pre-disruption investment decisions, as well as post-disruption dynamic adjustment of supply chain operations and allocation of repair resources. A case study demonstrates how the method can quantify the effects of pooling repair resources.}
 }
-
 
 
 @article{J2019Hsu,
@@ -479,26 +577,8 @@
   publisher = {In review}
 }
 
-@unpublished{escribano2022vertiport,
-  author    = {Escribano-Macias J and Khalife C and Angeloudis P},
-  title     = {An integrated vertiport placement model considering vehicle sizing and queuing: A London Case Study},
-  year      = {2022},
-  publisher = {In review}
-}
 
-@unpublished{yin2022federated,
-  author    = {Ye Y and Hu J and Hu Q and Liu X and Cao S and Yang Hao and Shen Y and Angeloudis P and Parada Leandro and Wu C},
-  title     = {A Federated Learning-Based Framework for Ride-sourcing Traffic Demand Prediction},
-  year      = {2022},
-  publisher = {In review}
-}
 
-@unpublished{parada2022emergency,
-  author    = {Parada L and Candela E and Marques L and Angeloudis P},
-  title     = {Safe and Efficient Manoeuvring for Emergency Vehicles in Autonomous Traffic using Multi-Agent Reinforcement Learning},
-  year      = {2022},
-  publisher = {In review}
-}
 
 @unpublished{liuyubin2021locationrouting,
   doi       = {10.48550/ARXIV.2209.04265},
@@ -520,20 +600,6 @@
   abstact   = {The development of Autonomous Vehicles (AV) presents an opportunity to save and improve lives. However, achieving SAE Level 5 (full) autonomy will require overcoming many technical challenges. There is a gap in the literature regarding the measurement of safety for self-driving systems. Measuring safety and risk is paramount for the generation of useful simulation scenarios for training and validation of autonomous systems. The limitation of current approaches is the dependence on near-crash data. Although near-miss data can substantially increase scarce available accident data, the definition of a near-miss or near-crash is arbitrary. A promising alternative is the introduction of the Responsibility-Sensitive Safety (RSS) model by Shalev-Shwartz et al., which defines safe lateral and longitudinal distances that can guarantee impossibility of collision under reasonable assumptions for vehicle dynamics. We present a framework that extends the RSS model for cases when reasonable assumptions or safe distances are violated. The proposed framework introduces risk indices that quantify the likelihood of a collision by using vehicle dynamics and driver's risk aversion. The present study concludes with proposed experiments for tuning the parameters of the formulated risk indices.}
 }
 
-@unpublished{2020karamanis2,
-  doi       = {10.48550/ARXIV.2011.11085},
-  url       = {https://arxiv.org/abs/2011.11085},
-  author    = {Karamanis, Renos and Cheong H and Hu J and Stettler M and Angeloudis P},
-  title     = {Identifying Critical Fleet Sizes Using a Novel Agent-Based Modelling Framework for Autonomous Ride-Sourcing},
-  publisher = {arXiv},
-  year      = {2020},
-  abstract  = {Ride-sourcing platforms enable an on-demand shared transport service by solving decision problems often related to customer matching, pricing and vehicle routing. These problems have been frequently represented using aggregated mathematical models and solved via algorithmic approaches designed by researchers. The increasing complexity of ride-sourcing environments compromises the accuracy of aggregated methods. It, therefore, signals the need for alternative practices such as agent-based models which capture the level of complex dynamics in ride-sourcing systems. The use of these agent-based models to simulate ride-sourcing fleets has been a focal point of many studies; however, this occurred in the absence of a prescribed approach on how to build the models to mimic fleet operations realistically. To bridge this research gap, we provide a framework for building bespoke agent-based models for ride-sourcing fleets, derived from the fundamentals of agent-based modelling theory. We also introduce a model building sequence of the different modules necessary to structure a simulator based on our framework. To showcase the strength of our framework, we use it to tackle the highly non-linear problem of minimum fleet size estimation for autonomous ride-sourcing fleets. We do so by investigating the relationship of system parameters based on queuing theory principles and by deriving and validating a novel model for pickup wait times. By modelling the ride-sourcing fleet function in the urban areas of Manhattan, San Francisco, Paris and Barcelona, we find that ride-sourcing fleets operate queues with zero assignment times above the critical fleet size. We also show that pickup wait times have a pivotal role in the estimation of the minimum fleet size in ride-sourcing operations, with agent-based modelling to be a more reliable route for their identification given the system parameters.}
-}
-
-
-
-
-
 
 
 
@@ -545,13 +611,94 @@
 
 % Proceedings
 
-@inproceedings{2023keyangTSL,
-  author    = {Zhang K and Escribano-Macias J and Paccagnan, Dario and Angeloudis P},
-  title     = {Last-mile Collaboration: A Decentralized Mechanism with Bounded Performance Guarantees and Implementation Strategies},
-  year      = {2023},
-  booktitle = {Proceedings of the 2023 Conference of the INFORMS Transportation and Logistics Society (TSL 2023)},
-  abstract  = {The last-mile urban freight market is characterised by soaring fragmentation, fierce competition and a super-low profit margin. These conditions make it difficult for operators to succeed commercially and provide level-of-service guarantees. At the same time, uncoordinated vehicle trips result in additional traffic that further exacerbates urban congestion and emissions. Despite increasing pressure from local authorities and regulators, there has been a notable lack of success in resolving these issues. Common barriers to progress include the lack of commercially meaningful incentives for operators alongside a reluctance to share information that is deemed commercially sensitive. Previous research in decentralised collaboration has focused on combinatorial auctions, while large-scale applications are still limited. In this work, we propose an Iterative, Decentralized, and Auction-based Mechanism (IDAM) for the last-mile urban freight collaboration. It is individually rational, budge balanced, non-decreasing and theoretically convergent. Its performance is bounded by quantifying the Price of Anarchy and the Price of Stability of corresponding resource-sharing games. From an optimistic view, IDAM could be as efficient as centralized planning. Conservatively, the worst performance depends on the fleet capacity and order spatial distribution. These bounds provide a reference for the potential benefits of collaboration and shed light on our model's suitability. To tackle the computational complexities, implementation strategies are incorporated for accelerating large-scale applications. The IDAM is validated on several instances and against a benchmark model based on the combinatorial auction. A case study of the Inner London Area, which involves 50 companies and 1000 orders, showed that our model can achieve up to 76\% cost savings. }
-}
+@INPROCEEDINGS{10422131,
+  author={Matsui, Kenta and Escribano, Jose and Angeloudis, Panagiotis},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Real-time Dispatching for Autonomous Vehicles in Open-pit Mining Deployments using Deep Reinforcement Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={5468-5475},
+  keywords={Adaptation models;Transportation;Mathematical models;Dispatching;Robustness;Fuels;Autonomous vehicles},
+  doi={10.1109/ITSC57777.2023.10422131}}
+
+
+@INPROCEEDINGS{10422153,
+  author={Nassif, Elias and Tian, Hanlin and Candela, Eduardo and Feng, Yuxiang and Angeloudis, Panagiotis and Ochieng, Washington Y.},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Safety Standards for Autonomous Vehicles: Challenges and Way Forward}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={3004-3009},
+  keywords={Measurement;Machine learning;Regulation;Safety;Standards;Autonomous vehicles;Testing},
+  doi={10.1109/ITSC57777.2023.10422153}}
+
+@INPROCEEDINGS{10422528,
+  author={Scott, Hamish and Niccolini, Lorenzo and Stetson, Chess and Goldbeck, Nils and Souflas, Ioannis and Songur, Noyan and Ahrabian, Alireza and Candela, Eduardo and Angeloudis, Panagiotis},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Scenario Gym: A Scenario-Centric Lightweight Simulator}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={5216-5222},
+  keywords={Measurement;Roads;Intelligent agents;Task analysis;Autonomous vehicles;Intelligent transportation systems},
+  doi={10.1109/ITSC57777.2023.10422528}}
+
+@INPROCEEDINGS{10422114,
+  author={Hu, Run and Tang, Zheyi and Hu, Qinru and Na, Xiaoxiang and Angeloudis, Panagiotis and Lee, Der-Horng and Hu, Simon},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Bi-Level Programming Approach for Optimal Charging Station Location and Traffic Assignment in Electric Autonomous Vehicle Systems}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={6013-6018},
+  keywords={Costs;Urban areas;Transportation;Stochastic processes;Charging stations;Programming;Autonomous vehicles},
+  doi={10.1109/ITSC57777.2023.10422114}}
+
+@INPROCEEDINGS{10422217,
+  author={Parada, Leandro and Tian, Hanlin and Escribano, Jose and Angeloudis, Panagiotis},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={5548-5554},
+  keywords={Point cloud compression;Laser radar;Navigation;Collaboration;Automobiles;Autonomous vehicles;Accidents},
+  doi={10.1109/ITSC57777.2023.10422217}}
+
+@INPROCEEDINGS{10421826,
+  author={Feng, Yuxiang and Ye, Qiming and Adan, Fahmy and Marques, Luis and Angeloudis, Panagiotis},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Driving Style Classification Using Deep Temporal Clustering with Enhanced Explainability}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={4040-4045},
+  keywords={Performance evaluation;Particle measurements;Road safety;Data models;Intelligent transportation systems;Vehicles;Meteorology},
+  doi={10.1109/ITSC57777.2023.10421826}}
+
+@INPROCEEDINGS{10422440,
+  author={Adan, Fahmy and Feng, Yuxiang and Angeloudis, Panagiotis and Quddus, Mohammed and Ochieng, Washington},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Constrained Multi-Agent Reinforcement Learning Policies for Cooperative Intersection Navigation and Traffic Compliance}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={4079-4085},
+  keywords={Space vehicles;Q-learning;Navigation;Delays;Behavioral sciences;Task analysis;Convergence},
+  doi={10.1109/ITSC57777.2023.10422440}}
+
+@INPROCEEDINGS{10422636,
+  author={Liu, Yubin and Zhang, Keyang and Escribano-Macias, Jose and Angeloudis, Panagiotis},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Quantifying the Capability of Autonomous Robot-Assisted Distribution in Last-Mile: Insight from Rural to Urban Configurations}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={5460-5467},
+  keywords={Computational modeling;Roads;Urban areas;Batteries;Computational complexity;Robots;Logistics},
+  doi={10.1109/ITSC57777.2023.10422636}}
 
 
 
@@ -562,7 +709,6 @@
   booktitle = {Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)},
   abstract  = {The last-mile urban freight market is characterised by soaring fragmentation, fierce competition and a super-low profit margin. These conditions make it difficult for operators to succeed commercially and provide level-of-service guarantees. At the same time, uncoordinated vehicle trips result in additional traffic that further exacerbates urban congestion and emissions. Despite increasing pressure from local authorities and regulators, there has been a notable lack of success in resolving these issues. Common barriers to progress include the lack of commercially meaningful incentives for operators alongside a reluctance to share information that is deemed commercially sensitive. Previous research in decentralised collaboration has focused on combinatorial auctions, while large-scale applications are still limited. In this work, we propose an Iterative, Decentralized, and Auction-based Mechanism (IDAM) for the last-mile urban freight collaboration. It is individually rational, budge balanced, non-decreasing and theoretically convergent. Its performance is bounded by quantifying the Price of Anarchy and the Price of Stability of corresponding resource-sharing games. From an optimistic view, IDAM could be as efficient as centralized planning. Conservatively, the worst performance depends on the fleet capacity and order spatial distribution. These bounds provide a reference for the potential benefits of collaboration and shed light on our model's suitability. To tackle the computational complexities, implementation strategies are incorporated for accelerating large-scale applications. The IDAM is validated on several instances and against a benchmark model based on the combinatorial auction. A case study of the Inner London Area, which involves 50 companies and 1000 orders, showed that our model can achieve up to 76\% cost savings. }
 }
-
 
 
 

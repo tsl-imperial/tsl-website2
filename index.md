@@ -62,9 +62,7 @@ Our work on tactical decision-making under uncertainty has sought solutions to t
 
 {% capture text %}
 
-Our research team is driven by curiousity and zeal for technical challenges. We nurture emerging engineering tallent within a collaborative environment,  within an engaging, cooperative, and team-focused atmosphere. 
-
-Our members benefit from strong connections with other laboratories within the Imperial College community, international collaborators, and industry partners, enriching our research and development endeavors. Our alumni have gone on to achieve success in academia, secure influential roles in industry, or launch their own startups.
+Our research team is driven by curiosity and zeal for technical challenges. We benefit from strong connections with other laboratories within the Imperial College community, external collaborators, and industry partners. Our alumni have gone on to achieve success in academia, secure influential roles in industry, or launch their own startups.
 
 **Join us:** We are looking for motivated doctoral candidates to join our team, and contribute to the development of models and enabling technologies for transport systems and freight transport. Several sholarships are available for qualified applicants.
 

@@ -19,5 +19,6 @@ print(dois)
 output_file = 'output_file.txt'
 with open(output_file, 'w') as file:
     for doi in dois:
+        doi = doi.replace('https://doi.org/', '')
         file.write('- id: doi:'+doi + '\n')
 print(f"List of DOIs exported to {output_file}")
