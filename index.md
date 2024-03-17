@@ -1,12 +1,13 @@
 ---
 ---
 
-# Lab Website Template
+The Transport Systems & Logistics Lab (TSL) focuses on developing algorithms and models for improving the **control**, **coordination** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphais is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Led by [**Dr Panagiotis Angeloudis**](https://www.imperial.ac.uk/people/p.angeloudis), our lab consists of a team of 15 researchers with expertise in **transportation**, **optimisation**, **machine learning** and **robotics**. We maintain strong collaborations with our network of academic collaborators, industrial partners and policymakers.
 
-{%
+Our objective is to advance the adoption of automation technologies to increase the efficiency and sustainability of the transportation sector.
+
+<!-- {%
   include button.html
   type="docs"
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
@@ -16,7 +17,7 @@ Spend less time worrying about managing a website and citations, and more time r
   type="github"
   text="On GitHub"
   link="greenelab/lab-website-template"
-%}
+%} -->
 
 {% include section.html %}
 

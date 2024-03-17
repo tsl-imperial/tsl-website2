@@ -1,247 +1,976 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1177/03611981231160157
+  title: 'Policy and Strategy Evaluation of Ridesharing Autonomous Vehicle Operation:
+    A London Case Study'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - He-in Cheong
+  - Jose Javier Escribano Macias
+  - Renos Karamanis
+  - Marc Stettler
+  - Arnab Majumdar
+  - Panagiotis Angeloudis
+  publisher: 'Transportation Research Record: Journal of the Transportation Research
+    Board'
+  date: '2023-04-11'
+  link: https://doi.org/gtm4g5
+  orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.1038/s41893-023-01173-x
+  title: "Future reductions of China\u2019s transport emissions impacted by changing\
+    \ driving behaviour"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Yingji Xia
+  - Chenlei Liao
+  - Xiqun Chen
+  - Zheng Zhu
+  - Xiaorui Chen
+  - Lixing Wang
+  - Rui Jiang
+  - Marc E. J. Stettler
+  - Panagiotis Angeloudis
+  - Ziyou Gao
+  publisher: Nature Sustainability
+  date: '2023-07-03'
+  link: https://doi.org/kmdh
+  orcid: 0000-0002-6778-8264
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1109/TVT.2023.3287221
+  title: A Federated Learning-Based Framework for Ride-sourcing Traffic Demand Prediction
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Simon Hu
+  - Yin Ye
+  - Qinru Hu
+  - Xin Liu
+  - Shaosheng Cao
+  - Howard H. Yang
+  - Yongdong Shen
+  - Panagiotis Angeloudis
+  - Leandro Parada
+  - Chao Wu
+  publisher: IEEE Transactions on Vehicular Technology
+  date: '2023-01-01'
+  link: https://doi.org/gtm4h9
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/21680566.2020.1851312
+  title: Dynamic modelling and optimisation of transportation systems in the connected
+    era
+  authors:
+  - Andy H.F. Chow
+  - Yong-Hong Kuo
+  - Panagiotis Angeloudis
+  - Michael G.H. Bell
+  publisher: 'Transportmetrica B: Transport Dynamics'
+  date: '2020-11-25'
+  link: https://doi.org/gtm4hf
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/03611981221093324
+  title: Decentralised Multi-Agent Reinforcement Learning Approach for the Same-Day
+    Delivery Problem
+  authors:
+  - Elvin Ngu
+  - Leandro Parada
+  - Jose Javier Escribano Macias
+  - Panagiotis Angeloudis
+  publisher: 'Transportation Research Record: Journal of the Transportation Research
+    Board'
+  date: '2022-06-23'
+  link: https://doi.org/gtm4g7
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TITS.2022.3177367
+  title: 'ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-Based
+    Pedestrian Crossing Intention Prediction'
+  authors:
+  - Xingchen Zhang
+  - Panagiotis Angeloudis
+  - Yiannis Demiris
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2022-11-01'
+  link: https://doi.org/gtm4g9
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TITS.2022.3147770
+  title: 'Monocular Visual Traffic Surveillance: A Review'
+  authors:
+  - Xingchen Zhang
+  - Yuxiang Feng
+  - Panagiotis Angeloudis
+  - Yiannis Demiris
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2022-09-01'
+  link: https://doi.org/gtm4g8
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TITS.2022.3220110
+  title: Adaptive Road Configurations for Improved Autonomous Vehicle-Pedestrian Interactions
+    Using Reinforcement Learning
+  authors:
+  - Qiming Ye
+  - Yuxiang Feng
+  - Jose Javier Escribano Macias
+  - Marc Stettler
+  - Panagiotis Angeloudis
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2022-01-01'
+  link: https://doi.org/gr7jts
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-16579-5_14
+  title: "Integrated Path Planning and\_Task Assignment Model for\_On-Demand Last-Mile\
+    \ UAV-Based Delivery"
+  authors:
+  - Jose Escribano
+  - Huan Chang
+  - Panagiotis Angeloudis
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/gtm4jb
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/su14010107
+  title: Spatial-Temporal Flows-Adaptive Street Layout Control Using Reinforcement
+    Learning
+  authors:
+  - Qiming Ye
+  - Yuxiang Feng
+  - Eduardo Candela
+  - Jose Escribano Macias
+  - Marc Stettler
+  - Panagiotis Angeloudis
+  publisher: Sustainability
+  date: '2021-12-23'
+  link: https://doi.org/gtm4hb
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/10286608.2021.1980560
+  title: "Reply to a discussion of \u2018a research agenda on systems approaches to\
+    \ infrastructure\u2019 by david elms"
+  authors:
+  - Ana Mijic
+  - Jennifer Whyte
+  - Rupert Myers
+  - Pangiotis Angeloudis
+  - Michel-Alexandre Cardin
+  - Marc Stettler
+  - Washington Ochieng
+  publisher: Civil Engineering and Environmental Systems
+  date: '2021-10-02'
+  link: https://doi.org/gtm4jc
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TITS.2020.2988356
+  title: Assignment and Pricing of Shared Rides in Ride-Sourcing Using Combinatorial
+    Double Auctions
+  authors:
+  - Renos Karamanis
+  - Eleftherios Anastasiadis
+  - Panagiotis Angeloudis
+  - Marc Stettler
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2021-09-01'
+  link: https://doi.org/gtm4hg
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC48978.2021.9564567
+  title: A Domain Adaptation Framework for Short-term Traffic Prediction
+  authors:
+  - Junyi Li
+  - Kaihang Zhang
+  - Loutao Shen
+  - Zhebing Wang
+  - Fangce Guo
+  - Panagiotis Angeloudis
+  - Xiqun Michael Chen
+  - Simon Hu
+  publisher: 2021 IEEE International Intelligent Transportation Systems Conference
+    (ITSC)
+  date: '2021-09-19'
+  link: https://doi.org/gnpbqb
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1049/itr2.12087
+  title: "Dynamic wireless power transfer system for electric\u2010powered connected\
+    \ and autonomous vehicle on urban road network"
+  authors:
+  - Qingyun Liu
+  - Simon Hu
+  - Panagiotis Angeloudis
+  - Yibing Wang
+  - Lihui Zhang
+  - Qiang Yang
+  - Yongfu Li
+  publisher: IET Intelligent Transport Systems
+  date: '2021-06-12'
+  link: https://doi.org/gqhdq3
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC48978.2021.9564641
+  title: Fast Collision Prediction for Autonomous Vehicles using a Stochastic Dynamics
+    Model
+  authors:
+  - Eduardo Candela
+  - Yuxiang Feng
+  - Daniel Mead
+  - Yiannis Demiris
+  - Panagiotis Angeloudis
+  publisher: 2021 IEEE International Intelligent Transportation Systems Conference
+    (ITSC)
+  date: '2021-09-19'
+  link: https://doi.org/gtm4jd
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TITS.2021.3089777
+  title: Vehicle Redistribution in Ride-Sourcing Markets Using Convex Minimum Cost
+    Flows
+  authors:
+  - Renos Karamanis
+  - Eleftherios Anastasiadis
+  - Marc Stettler
+  - Panagiotis Angeloudis
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2022-08-01'
+  link: https://doi.org/gtm4hc
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/su13010168
+  title: 'On the Selection of Charging Facility Locations for EV-Based Ride-Hailing
+    Services: A Computational Case Study'
+  authors:
+  - Eleftherios Anastasiadis
+  - Panagiotis Angeloudis
+  - Daniel Ainalis
+  - Qiming Ye
+  - Pei-Yuan Hsu
+  - Renos Karamanis
+  - Jose Escribano Macias
+  - Marc Stettler
+  publisher: Sustainability
+  date: '2020-12-26'
+  link: https://doi.org/gh5v4z
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10286608.2020.1827396
+  title: A research agenda on systems approaches to infrastructure
+  authors:
+  - Jennifer Whyte
+  - Ana Mijic
+  - Rupert J. Myers
+  - Panagiotis Angeloudis
+  - Michel-Alexandre Cardin
+  - Marc E. J. Stettler
+  - Washington Ochieng
+  publisher: Civil Engineering and Environmental Systems
+  date: '2020-10-01'
+  link: https://doi.org/gtm4hd
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/23249935.2020.1725179
+  title: Optimal design of Rapid evacuation strategies in constrained urban transport
+    networks
+  authors:
+  - Jose Javier Escribano-Macias
+  - Panagiotis Angeloudis
+  - Ke Han
+  publisher: 'Transportmetrica A: Transport Science'
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  link: https://doi.org/gtm4jf
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.trc.2019.11.002
+  title: Optimal hub selection for rapid medical deliveries using unmanned aerial
+    vehicles
+  authors:
+  - Jose Escribano Macias
+  - Panagiotis Angeloudis
+  - Washington Ochieng
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2020-01-01'
+  link: https://doi.org/gngfs9
+  orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1061/9780784482933.211
+  title: Agent-Based Modeling and Simulation for Systematic Operations of Shared Automated
+    Electric Vehicles
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Fugen Yao
+  - Xiqun (Michael) Chen
+  - Panagiotis Angeloudis
+  - Wenwen Zhang
+  publisher: CICTP 2020
+  date: '2020-08-12'
+  link: https://doi.org/gtm4jg
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-39990-0_4
+  title: Comparison of Fleet Size Determination Models for Horizontal Transportation
+    of Shipping Containers Using Automated Straddle Carriers
+  authors:
+  - Bani Anvari
+  - Apostolos Ziakopoulos
+  - James Morley
+  - Dimitris Pachakis
+  - Panayotis Angeloudis
+  publisher: Operations Research/Computer Science Interfaces Series
+  date: '2020-01-01'
+  link: https://doi.org/gtm4jh
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0361198120915891
+  title: Design of Hospital Delivery Networks Using Unmanned Aerial Vehicles
+  authors:
+  - Alejandra Otero Arenzana
+  - Jose Javier Escribano Macias
+  - Panagiotis Angeloudis
+  publisher: 'Transportation Research Record: Journal of the Transportation Research
+    Board'
+  date: '2020-04-23'
+  link: https://doi.org/gtm4jj
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00291-020-00602-z
+  title: Endogenous stochastic optimisation for relief distribution assisted with
+    unmanned aerial vehicles
+  authors:
+  - Jose Escribano Macias
+  - Nils Goldbeck
+  - Pei-Yuan Hsu
+  - Panagiotis Angeloudis
+  - Washington Ochieng
+  publisher: OR Spectrum
+  date: '2020-08-18'
+  link: https://doi.org/gtm4jk
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ITSC45102.2020.9294527
+  title: Intelligent Management of On-street Parking Provision for the Autonomous
+    Vehicles Era
+  authors:
+  - Qiming Ye
+  - Simon M Stebbins
+  - Yuxiang Feng
+  - Eduardo Candela
+  - Marc Stettler
+  - Panagiotis Angeloudis
+  publisher: 2020 IEEE 23rd International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2020-09-20'
+  link: https://doi.org/gtm4hv
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trpro.2020.03.187
+  title: Optimal logistics planning for modular construction using multi-stage stochastic
+    programming
+  authors:
+  - Pei-Yuan Hsu
+  - Marco Aurisicchio
+  - Panagiotis Angeloudis
+  publisher: Transportation Research Procedia
+  date: '2020-01-01'
+  link: https://doi.org/gtm4jm
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tre.2019.101830
+  title: Optimal supply chain resilience with consideration of failure propagation
+    and repair logistics
+  authors:
+  - Nils Goldbeck
+  - Panagiotis Angeloudis
+  - Washington Ochieng
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2020-01-01'
+  link: https://doi.org/gpmqcn
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1108/ECAM-01-2020-0058
+  title: Understanding and visualizing schedule deviations in construction projects
+    using fault tree analysis
+  authors:
+  - Pei-Yuan Hsu
+  - Marco Aurisicchio
+  - Panagiotis Angeloudis
+  - Jennifer Whyte
+  publisher: Engineering, Construction and Architectural Management
+  date: '2020-05-05'
+  link: https://doi.org/gtm4jn
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.trc.2020.01.023
+  title: Urban network-wide traffic speed estimation with massive ride-sourcing GPS
+    traces
+  authors:
+  - Jingru Yu
+  - Marc E.J. Stettler
+  - Panagiotis Angeloudis
+  - Simon Hu
+  - Xiqun (Michael) Chen
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2020-03-01'
+  link: https://doi.org/gtm4jp
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.autcon.2019.102898
+  title: Risk-averse supply chain for modular construction projects
+  authors:
+  - Pei-Yuan Hsu
+  - Marco Aurisicchio
+  - Panagiotis Angeloudis
+  publisher: Automation in Construction
+  date: '2019-10-01'
+  link: https://doi.org/gp36t6
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ress.2019.03.007
+  title: Resilience assessment for interdependent urban infrastructure systems using
+    dynamic network flow models
+  authors:
+  - Nils Goldbeck
+  - Panagiotis Angeloudis
+  - Washington Y. Ochieng
+  publisher: Reliability Engineering &amp; System Safety
+  date: '2019-08-01'
+  link: https://doi.org/gjm3cj
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.aap.2016.04.030
+  title: 'Modelling the impact of liner shipping network perturbations on container
+    cargo routing: Southeast Asia to Europe application'
+  authors:
+  - Pablo E. Achurra-Gonzalez
+  - Matteo Novati
+  - Roxane Foulser-Piggott
+  - Daniel J. Graham
+  - Gary Bowman
+  - Michael G.H. Bell
+  - Panagiotis Angeloudis
+  publisher: Accident Analysis &amp; Prevention
+  date: '2019-02-01'
+  link: https://doi.org/gfc6pt
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC.2019.8917399
+  title: Simulation and Evaluation of CAVs Behavior in an Isolated Signalized Intersection
+    Equipped with Dynamic Wireless Power Transfer System
+  authors:
+  - Qingyun Liu
+  - Simon Hu
+  - Panagiotis Angeloudis
+  - Yibing Wang
+  - Lihui Zhang
+  - Qiang Yang
+  - Yongfu Li
+  publisher: 2019 IEEE Intelligent Transportation Systems Conference (ITSC)
+  date: '2019-10-01'
+  link: https://doi.org/gtm4jq
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ITSC.2018.8569227
+  title: Dynamic Pricing in One-Sided Autonomous Ride-Sourcing Markets
+  authors:
+  - Renos Karamanis
+  - Panagiotis Angeloudis
+  - Aruna Sivakumar
+  - Marc Stettler
+  publisher: 2018 21st International Conference on Intelligent Transportation Systems
+    (ITSC)
+  date: '2018-11-01'
+  link: https://doi.org/gtm4hw
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2514/6.2018-3045
+  title: Integrated Trajectory-Location-Routing for Rapid Humanitarian Deliveries
+    using Unmanned Aerial Vehicles
+  authors:
+  - Jose Javier Escribano Macias
+  - Panagiotis Angeloudis
+  - Washington Ochieng
+  publisher: 2018 Aviation Technology, Integration, and Operations Conference
+  date: '2018-06-24'
+  link: https://doi.org/gtm4hx
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.autcon.2018.05.029
+  title: Optimal logistics planning for modular construction using two-stage stochastic
+    programming
+  authors:
+  - Pei-Yuan Hsu
+  - Panagiotis Angeloudis
+  - Marco Aurisicchio
+  publisher: Automation in Construction
+  date: '2018-10-01'
+  link: https://doi.org/gd9x5s
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-68496-3_34
+  title: A Dynamic Network Flow Model for Interdependent Infrastructure and Supply
+    Chain Networks with Uncertain Asset Operability
+  authors:
+  - Nils Goldbeck
+  - Panagiotis Angeloudis
+  - Washington Y. Ochieng
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/gtm4hz
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/23249935.2016.1209254
+  title: Agent-based day-to-day traffic network model with information percolation
+  authors:
+  - Wenlong Shang
+  - Ke Han
+  - Washington Ochieng
+  - Panagiotis Angeloudis
+  publisher: 'Transportmetrica A: Transport Science'
+  date: '2016-08-10'
+  link: https://doi.org/gtm4hj
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4324/9781315271446
+  title: Advances in Shipping Data Analysis and Modeling
+  authors: []
+  publisher: Routledge
+  date: '2017-11-06'
+  link: https://doi.org/gtm4jr
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-68496-3_35
+  title: Establishing Outsourcing and Supply Chain Plans for Prefabricated Construction
+    Projects Under Uncertain Productivity
+  authors:
+  - Pei-Yuan Hsu
+  - Marco Aurisicchio
+  - Panagiotis Angeloudis
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/gtm4h2
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1057/mel.2015.26
+  title: 'Global LNG trade: A comprehensive up to date analysis'
+  authors:
+  - Hamed Nikhalat-Jahromi
+  - Panagiotis Angeloudis
+  - Michael G H Bell
+  - Robert A Cochrane
+  publisher: Maritime Economics &amp; Logistics
+  date: '2017-03-01'
+  link: https://doi.org/gtm4hk
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.procs.2017.11.095
+  title: Investigating Schedule Deviation in Construction Projects through Root Cause
+    Analysis
+  authors:
+  - Pei-Yuan Hsu
+  - Marco Aurisicchio
+  - Panagiotis Angeloudis
+  publisher: Procedia Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/ggnq4v
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.24928/2017/0193
+  title: Supply Chain Design for Modular Construction Projects
+  authors:
+  - Pei-Yuan Hsu
+  - Marco Aurisicchio
+  - Panagiotis Angeloudis
+  publisher: 25th Annual Conference of the International Group for Lean Construction
+  date: '2017-07-09'
+  link: https://doi.org/gtm4h3
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2016.04.010
+  title: Strategic maritime container service design in oligopolistic markets
+  authors:
+  - Panagiotis Angeloudis
+  - Luciano Greco
+  - Michael G.H. Bell
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2016-08-01'
+  link: https://doi.org/f8x73w
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.autcon.2016.08.007
+  title: A multi-objective GA-based optimisation for holistic Manufacturing, transportation
+    and Assembly of precast construction
+  authors:
+  - B. Anvari
+  - P. Angeloudis
+  - W.Y. Ochieng
+  publisher: Automation in Construction
+  date: '2016-11-01'
+  link: https://doi.org/f862s7
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3141/2588-05
+  title: 'Calibration and Validation of a Shared Space Model: Case Study'
+  authors:
+  - Bani Anvari
+  - Michael G. H. Bell
+  - Panagiotis Angeloudis
+  - Washington Y. Ochieng
+  publisher: 'Transportation Research Record: Journal of the Transportation Research
+    Board'
+  date: '2016-01-01'
+  link: https://doi.org/gtm4hm
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3141/2549-05
+  title: 'Payback Period for Emissions Abatement Alternatives: Role of Regulation
+    and Fuel Prices'
+  authors:
+  - Thalis Zis
+  - Panagiotis Angeloudis
+  - Michael G. H. Bell
+  - Harilaos N. Psaraftis
+  publisher: 'Transportation Research Record: Journal of the Transportation Research
+    Board'
+  date: '2016-01-01'
+  link: https://doi.org/gj9xcm
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.dam.2015.07.042
+  title: Scheduling co-operating stacking cranes with predetermined container sequences
+  authors:
+  - Dirk Briskorn
+  - Panagiotis Angeloudis
+  publisher: Discrete Applied Mathematics
+  date: '2016-03-01'
+  link: https://doi.org/f797sg
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.enpol.2016.06.027
+  title: 'Spot sale of uncommitted LNG from Middle East: Japan or the UK?'
+  authors:
+  - Hamed Nikhalat-Jahromi
+  - Michael G.H. Bell
+  - Dalila B.M.M. Fontes
+  - Robert A. Cochrane
+  - Panagiotis Angeloudis
+  publisher: Energy Policy
+  date: '2016-09-01'
+  link: https://doi.org/f82w7m
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-17181-4_10
+  title: Economic and Environmental Trade-Offs in Water Transportation
+  authors:
+  - Thalis Zis
+  - Panagiotis Angeloudis
+  - Michael G. H. Bell
+  publisher: Greening of Industry Networks Studies
+  date: '2015-01-01'
+  link: https://doi.org/gtm4h6
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trpro.2015.07.015
+  title: Strategic Maritime Container Transport Design in Oligopolistic Markets
+  authors:
+  - Panagiotis Angeloudis
+  - Luciano Greco
+  - Michael G H Bell
+  publisher: Transportation Research Procedia
+  date: '2015-01-01'
+  link: https://doi.org/gtm4h4
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/23249935.2014.884184
+  title: A strategic repositioning algorithm for bicycle-sharing schemes
+  authors:
+  - Panagiotis Angeloudis
+  - Jun Hu
+  - Michael G. H. Bell
+  publisher: 'Transportmetrica A: Transport Science'
+  date: '2014-04-10'
+  link: https://doi.org/gkb5bx
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3141/2479-04
+  title: Environmental Balance of Shipping Emissions Reduction Strategies
+  authors:
+  - Thalis Zis
+  - Robin J. North
+  - Panagiotis Angeloudis
+  - Washington Y. Ochieng
+  - Michael G. H. Bell
+  publisher: 'Transportation Research Record: Journal of the Transportation Research
+    Board'
+  date: '2015-01-01'
+  link: https://doi.org/gtm4hn
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1057/mel.2014.6
+  title: Evaluation of cold ironing and speed reduction policies to reduce ship emissions
+    near and at ports
+  authors:
+  - Thalis Zis
+  - Robin Jacob North
+  - Panagiotis Angeloudis
+  - Washington Yotto Ochieng
+  - Michael Geoffrey Harrison Bell
+  publisher: Maritime Economics &amp; Logistics
+  date: '2014-04-03'
+  link: https://doi.org/f6ppmh
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trpro.2014.09.023
+  title: Long-range Collision Avoidance for Shared Space Simulation based on Social
+    Forces
+  authors:
+  - Bani Anvari
+  - Michael G.H. Bell
+  - Panagiotis Angeloudis
+  - Washington Y. Ochieng
+  publisher: Transportation Research Procedia
+  date: '2014-01-01'
+  link: https://doi.org/gtm4h5
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2013.09.006
+  title: A cost-based maritime container assignment model
+  authors:
+  - Michael G.H. Bell
+  - Xin Liu
+  - Jeremy Rioult
+  - Panagiotis Angeloudis
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2013-12-01'
+  link: https://doi.org/f5p5j5
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4324/9781315850504
+  title: Risk Management in Port Operations, Logistics and Supply Chain Security
+  authors:
+  - Khalid Bichou
+  - Michael Bell
+  - Andrew Evans
+  publisher: Informa Law from Routledge
+  date: '2013-12-04'
+  link: https://doi.org/gtm4h8
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2011.04.002
+  title: A frequency-based maritime container assignment model
+  authors:
+  - Michael G.H. Bell
+  - Xin Liu
+  - Panagiotis Angeloudis
+  - Achille Fonzone
+  - Solmaz Haji Hosseinloo
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2011-09-01'
+  link: https://doi.org/bm6pg3
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/03088839.2011.597448
+  title: A review of container terminal simulation models
+  authors:
+  - Panagiotis Angeloudis
+  - Michael G. H. Bell
+  publisher: Maritime Policy &amp; Management
+  date: '2011-09-01'
+  link: https://doi.org/b427fd
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2009.09.001
+  title: An uncertainty-aware AGV assignment algorithm for automated container terminals
+  authors:
+  - Panagiotis Angeloudis
+  - Michael G.H. Bell
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2010-05-01'
+  link: https://doi.org/fqnkb2
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.physa.2005.11.007
+  title: Large subway systems as complex networks
+  authors:
+  - Panagiotis Angeloudis
+  - David Fisk
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2006-07-01'
+  link: https://doi.org/bhd9gg
+  orcid: 0000-0002-6778-8264
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.patter.2023.100730
+  title: Understanding common human driving semantics for autonomous vehicles
+  authors:
+  - Yingji Xia
+  - Maosi Geng
+  - Yong Chen
+  - Sudan Sun
+  - Chenlei Liao
+  - Zheng Zhu
+  - Zhihui Li
+  - Washington Yotto Ochieng
+  - Panagiotis Angeloudis
+  - Mireille Elhajj
+  - Lei Zhang
+  - Zhenyu Zeng
+  - Bing Zhang
+  - Ziyou Gao
+  - Xiqun (Michael) Chen
+  publisher: Patterns
+  date: '2023-07-01'
+  link: https://doi.org/gtm4g6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s41072-019-0043-8
+  title: Evaluation of port disruption impacts in the global liner shipping network
+  authors:
+  - Pablo E. Achurra-Gonzalez
+  - Panagiotis Angeloudis
+  - Nils Goldbeck
+  - Daniel J. Graham
+  - Konstantinos Zavitsas
+  - Marc E. J. Stettler
+  publisher: Journal of Shipping and Trade
+  date: '2019-06-13'
+  link: https://doi.org/gtm4hh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2209.04265
+  title: 'Route Planning for Last-Mile Deliveries Using Mobile Parcel Lockers: A Hybrid
+    Q-Learning Network Approach'
+  authors:
+  - Yubin Liu
+  - Qiming Ye
+  - Jose Escribano-Macias
+  - Yuxiang Feng
+  - Eduardo Candela
+  - Panagiotis Angeloudis
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gtm4hp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2104.12945
+  title: Quantitative Risk Indices for Autonomous Vehicle Training Systems
+  authors:
+  - Eduardo Candela
+  - Yuxiang Feng
+  - Panagiotis Angeloudis
+  - Yiannis Demiris
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/gtm4hq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2011.11085
+  title: Identifying Critical Fleet Sizes Using a Novel Agent-Based Modelling Framework
+    for Autonomous Ride-Sourcing
+  authors:
+  - Renos Karamanis
+  - He-in Cheong
+  - Simon Hu
+  - Marc Stettler
+  - Panagiotis Angeloudis
+  publisher: arXiv
+  date: '2020-01-01'
+  link: https://doi.org/gtm4hr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2203.11653
+  title: Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving
+    using Sim-to-Real
+  authors:
+  - Eduardo Candela
+  - Leandro Parada
+  - Luis Marques
+  - Tiberiu-Andrei Georgescu
+  - Yiannis Demiris
+  - Panagiotis Angeloudis
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gtm4hs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2112.05434
+  title: A Reinforcement Learning-based Adaptive Control Model for Future Street Planning,
+    An Algorithm and A Case Study
+  authors:
+  - Qiming Ye
+  - Yuxiang Feng
+  - Jing Han
+  - Marc Stettler
+  - Panagiotis Angeloudis
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/gtm4ht
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1049/PERIRR3E_ch3
+  title: Introduction to network theory and game theory as frameworks for the analysis
+    of critical infrastructure
+  authors:
+  - Urszula Kanturska
+  - Panagiotis Angeloudis
+  publisher: 'Infrastructure Risk and Resilience: Transportation'
+  date: '2013-01-01'
+  link: https://doi.org/gtm4h7
   plugin: sources.py
   file: sources.yaml
