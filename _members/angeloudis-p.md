@@ -9,6 +9,8 @@ education:
 aliases:
   - J. Smith
   - J Smith
+brief-position: Group Director, Transport Systems, Logistics
+brief-desc: Associate Professor
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213

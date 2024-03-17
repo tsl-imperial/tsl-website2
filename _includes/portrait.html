@@ -34,12 +34,20 @@
 
         {% if member.role or member.description %}
           <span class="portrait-role">
-            {% assign type = site.data.types[member.role] %}
-            {% include icon.html icon=type.icon %}
-            <span>{{ member.description | default: type.description }}</span>
+            <span>{{ member.brief-desc }}</span>
           </span>
         {% endif %}
       </span>
     {% endif %}
+
+    {% if member.brief-position %}
+
+      <hr class="person-sep">
+      <span class="portrait-desc">
+        {{ member.brief-position  }}
+      </span>
+    {% endif %}
+
+
   </a>
 </div>
