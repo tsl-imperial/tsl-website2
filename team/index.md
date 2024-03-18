@@ -70,7 +70,7 @@ Dr Panagiotis Angeloudis is Reader in Transport Systems & Logistics at the **Cen
 
 {% include section.html background="images/background.jpg" dark=true %}
 
- We are always looking for new members to our team. We will advertise any funded opportunities that specific to our group on LinkedIn, the UTSG and robotics-worldwide mailing lists, while several scholarship schemes and fellowships are offered by Imperial College London. 
+ We are always looking for new members to our team. We will advertise any funded opportunities that specific to our group on LinkedIn, as well as in the UTSG and robotics-worldwide mailing lists, while several scholarship schemes and fellowships are offered by Imperial College London. 
  
  For more information on how to join us, you can review our [recruitment](/apply/) page. 
 

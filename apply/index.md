@@ -57,7 +57,7 @@ Due to the limited number of PhD positions available in our group each year, we 
 
 Additionally, if you wish to be considered for any internal scholarships, please consult the relevant pages for specific deadlines that may apply.
 
-##### How should I structure my research statement?"
+##### How should I structure my research statement?
 
 Should you decide to proceed with an application, please make sure that you include a personal statement that is 2-3 pages long and follows the structure below: 
 
