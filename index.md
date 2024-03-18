@@ -40,7 +40,7 @@ Our work on tactical decision-making under uncertainty has sought solutions to t
 
 {%
   include button.html
-  link="research"
+  link="papers"
   text="Recent publications"
   icon="fa-solid fa-arrow-right"
   flip=true

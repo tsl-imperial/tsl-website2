@@ -1,14 +1,13 @@
 ---
-title: Publications
+title: Papers
 nav:
-  order: 1
+  order: 2
   tooltip: Published works
 ---
 
 # Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We primarily publish our research in the Transportation Research journal series and relevant IEEE Transactions titles. Most of our recent work should be accessible on an Open Access basis. However, if you cannot locate a specific manuscript online, please feel free to contact us.
 
 {% include section.html %}
 
