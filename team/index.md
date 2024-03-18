@@ -64,7 +64,6 @@ Dr Panagiotis Angeloudis is Reader in Transport Systems & Logistics at the **Cen
 - **Kenta Matsui**, Komatsu Corporation
 - **Anna Konovalenko**, Molde University College
 - **Dirk Briskorn**, University of Wuppertal
-- **Luis Marques**, Imperial College London (UROP)
 - **Ryusuke Fujita**, Tokyo Tech
 
  
