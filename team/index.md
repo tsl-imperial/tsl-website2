@@ -3,6 +3,9 @@ title: Team
 nav:
   order: 3
   tooltip: About our team
+redirect_from: 
+  - people
+  - author
 ---
 
 # Lab Director

@@ -84,8 +84,15 @@ Our research team is driven by curiosity and zeal for technical challenges. We b
   style="bare"
 %}
 
-
 {% endcapture %}
+
+{% include section.html %}
+
+#### Research Themes
+
+{% include list.html component="card" data="projects" filters="group: theme" style="small" %}
+
+{% include section.html %}
 
 {%
   include feature.html

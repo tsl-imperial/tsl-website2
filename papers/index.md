@@ -3,6 +3,9 @@ title: Papers
 nav:
   order: 2
   tooltip: Published works
+redirect_from: 
+  - research
+  - research_highlights
 ---
 
 # Publications

@@ -8,40 +8,45 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+
+
+
+
+- title: Maritime Transport 
+  image: images/themes/maritime.png
+  description: Models and analysis of container and energy shipping networks.]
+  group: theme
+
+- title: Infrastructure Resilience
+  image: images/themes/resilience.png
+  description: Network resilience against natural disasers and targetted attacks.
+  group: theme
+
+
+- title: Agent-based Simulation
+  image: images/themes/agent-based.png
+  description: Development of in-house models for logic-intensive simulations.
+  group: theme
+
+
+- title: RL for Multi-Vehicle Control
+  image: images/themes/rl.png
+  description: Determining optimal policies for distributed and robust control.
+  group: theme
+
+
+- title: AV Operations
+  image: images/themes/avs.png
+  description: Safety and Integration of autonomous vehicles with civil infrastructure.
+  group: theme
+
+
+- title: Freight & Logistics
+  image: images/themes/freight.png
+  description: Freight distribution models, last-mile logistics, and urban freight.
+  group: theme
+
+

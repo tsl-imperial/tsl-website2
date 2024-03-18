@@ -11,18 +11,20 @@ aliases:
 brief-position: Group Director, Transport Systems, Logistics
 brief-desc: Associate Professor (Reader)
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.imperial.ac.uk/people/p.angeloudis
+  google-scholar: pyOTFWoAAAAJ
+  linkedin: https://www.linkedin.com/in/panagiotisangeloudis/
+  github: https://github.com/p-ang
+  twitter: https://twitter.com/pangeloudis
+
 affiliations:
   - Reader (Associate Professor) in Transport Systems & Logistics
   - Turing Fellow, Alan Turing Institute
   - Director of Postgraduate Teaching, MSc in Transport
   - Management Committee, Imperial Robotics Forum
-  - Affiliate, Energy Futures Lab
-  - Member, Space Lab
 ---
 
-Dr Panagiotis Angeloudis is Reader and Head of the [Transport Systems and Logistics Laboratory](https://transport-systems.imperial.ac.uk) (TSL), based in the [Centre for Transport Studies](https://www.imperial.ac.uk/transport-studies) (CTS) at [Imperial College London](https://www.imperial.ac.uk). 
+Dr Panagiotis Angeloudis is Reader and Director of the [Transport Systems and Logistics Laboratory](https://transport-systems.imperial.ac.uk) (TSL), based in the [Centre for Transport Engineering & Modelling](https://www.imperial.ac.uk/transport-engineering) (CTEM) at [Imperial College London](https://www.imperial.ac.uk). 
 
 
 His research focuses on the intersection of autonomous systems, multi-agent modelling and network optimisation and their applications to freight distribution and passenger transportation. His research group specialises in developing high-performance, scalable models that capture the interactions between users, providers, infrastructure and operating regimes. Recent TSL projects have focused on the design of deployment strategies for safe and efficient autonomous transport systems (AVs, drones) for passenger and freight mobility.  

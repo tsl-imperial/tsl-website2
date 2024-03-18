@@ -3,6 +3,8 @@ title: Join us
 nav:
   order: 4
   tooltip: Join us!
+redirect_from: 
+  - recruitment
 ---
 
 
@@ -30,9 +32,9 @@ A non-exhaustive list of topics that we are currently interested in is as follow
 
 1. Autonomy in shipping and freight distribution
 2. Cooperative control of autonomous vehicle swarms
-3. Collaboration, coordination and competition if last-mile urban delivery
+3. Collaboration, coordination and competition of last-mile urban delivery
 
-Our list of [recent papers](research/) might provide you with further ideas regarding potential research topics that are currently of interest to our group.
+Our list of [recent papers](/papers/) might provide you with further ideas regarding potential research topics that are currently of interest to our group.
 
 ##### Where can I find information regarding TSL's academic requirements?
 
