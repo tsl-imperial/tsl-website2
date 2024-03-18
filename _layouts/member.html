@@ -38,6 +38,26 @@ layout: default
 
 </div>
 
+<!-- Affiliations -->
+{% if page.affiliations %}
+<div>
+  <h3>Affiliations</h3>
+  <ul>
+      {% for education in page.affiliations %}
+      <li>{{ education }}</li>
+      {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+
+
+<!-- Bio -->
+<div>
+  <h3>Biography</h3>
+  {{ content }}
+</div>
+
 <!-- Education -->
 {% if page.education %}
 <div>
@@ -50,23 +70,4 @@ layout: default
 </div>
 {% endif %}
 
-<!-- Bio -->
-<div>
-  <h3>Biography</h3>
-  {{ content }}
-</div>
 
-
-{% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
-
-<p class="center">
-  <a href="{{ search | relative_url }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
-  </a>
-</p>
-
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}

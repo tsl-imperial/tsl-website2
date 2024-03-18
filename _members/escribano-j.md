@@ -7,8 +7,7 @@ education:
   - "Imperial College London: PhD in Operations Research 2020"
   - "Imperial College London: MEng in Civil & Environmental Engineering 2015"
 aliases:
-  - J. Smith
-  - J Smith
+  - Escribano
 brief-position: Aviation, Logistics, Simulation, Optimisation
 brief-desc: Lecturer
 links:
@@ -17,9 +16,12 @@ links:
   linkedin: https://www.linkedin.com/in/jose-escribano/"
   google-scholar: https://scholar.google.co.uk/citations?user=oG83iIoAAAAJ
   github: https://github.com/JoseEscribano
+affiliations:
+  - Lecturer in Aviation & Logistics
+  - Director of Admissions, MSc in Transport
 ---
 
-Jose is Lecturer in Air Transport & Logistics and a member of the Centre for Transport Engineering & Modelling at Imperial College London. His research focuses on collaborative vehicle control, optimisation of last-mile logistics, urban air mobility, and machine learning and game theoretical models. He currently works as part of Project D-Risk, which aims at improving the safety of autonomous vehicles to make them a commercial reality.
+Jose is Lecturer in Air Transport & Logistics and a member of the Centre for Transport Engineering & Modelling at Imperial College London. His research focuses on collaborative vehicle control, optimisation of last-mile logistics, urban air mobility, and machine learning and game theoretical models.
 
 Jose joined the Centre for Transport Studies in October 2015 as part of the [EPSRC Centre for Doctoral Training (CDT) in Sustainable Civil Engineering](https://www.imperial.ac.uk/sustainable-civil-engineering) and was awarded his PhD in March 2021. His thesis focused on the optimisation of humanitarian relief operations using unmanned aerial vehicles (UAVs), developing a framework to design and evaluate relief efforts. This incorporates UAV-specific constraints (such as energy consumption patterns, flight trajectories, and recharging operations), setting it apart from conventional humanitarian operations models. The models conform to the latest Civil Aviation navigation specification frameworks.
 
