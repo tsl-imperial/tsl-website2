@@ -10,10 +10,15 @@ aliases:
   - J. Smith
   - J Smith
 brief-position: Group Director, Transport Systems, Logistics
-brief-desc: Associate Professor
+brief-desc: Associate Professor (Reader)
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
+affiliations:
+  - Turing Fellow, Alan Turing Institute
+  - Director of Postgraduate Teaching, MSc in Transport
+  - Management Committee, Imperial Robotics Forum
+  - 
 ---
 
 Dr Panagiotis Angeloudis is Reader and Head of the [Transport Systems and Logistics Laboratory](https://transport-systems.imperial.ac.uk) (TSL), based in the [Centre for Transport Studies](https://www.imperial.ac.uk/transport-studies) (CTS) at [Imperial College London](https://www.imperial.ac.uk). 

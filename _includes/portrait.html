@@ -7,6 +7,8 @@
   {% assign member = include %}
 {% endif %}
 
+{% assign nointerests = include.nointerests | default: false %}
+
 <div class="portrait-wrapper">
   <a
     {% if page.slug != member.slug %}
@@ -40,7 +42,7 @@
       </span>
     {% endif %}
 
-    {% if member.brief-position %}
+    {% if member.brief-position and nointerests == false %}
 
       <hr class="person-sep">
       <span class="portrait-desc">

@@ -25,7 +25,7 @@ Our objective is to advance the adoption of automation technologies to increase 
 
 {% capture text %}
 
-Our research focuses on how transportation systems can become more efficient, safe and resilient, focusing on the three interlinked strands of **vehicle autonomy**, **modelling** and **control** for **strategic and tactical decision- aking**. We use advanced models that incorporate the effects of operational uncertainty (future demand, operational disruptions, targetted attacks) in decision-making. 
+Our research focuses on how transportation systems can become more efficient, safe and resilient, focusing on the three interlinked strands of **vehicle autonomy**, **modelling** and **control** for **strategic and tactical decision making**. We use advanced models that incorporate the effects of operational uncertainty (future demand, operational disruptions, targetted attacks) in decision-making. 
 
 Our work on tactical decision-making under uncertainty has sought solutions to these problems through **mathematical optimisation**, **reinforcement learning**, **network modelling**, and bespokely developed high performance **agent based modelling** tools.
 
