@@ -58,7 +58,7 @@ Dr Panagiotis Angeloudis is Reader in Transport Systems & Logistics at the **Cen
 
 {% include section.html %}
 
-# Visiting Faculty, Researchers & Students
+# Visiting Researchers
 
 - **Luciano Greco**,  University of Padova
 - **Kenta Matsui**, Komatsu Corporation
