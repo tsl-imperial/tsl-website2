@@ -7,17 +7,6 @@ Led by [**Dr Panagiotis Angeloudis**](https://www.imperial.ac.uk/people/p.angelo
 
 Our objective is to advance the adoption of automation technologies to increase the efficiency and sustainability of the transportation sector.
 
-<!-- {%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%} -->
 
 {% include section.html %}
 
@@ -29,14 +18,6 @@ Our research focuses on how transportation systems can become more efficient, sa
 
 Our work on tactical decision-making under uncertainty has sought solutions to these problems through **mathematical optimisation**, **reinforcement learning**, **network modelling**, and bespokely developed high performance **agent based modelling** tools.
 
-{%
-  include button.html
-  link="projects"
-  text="Browse projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {%
   include button.html
