@@ -51,12 +51,15 @@ $wrap: 700px;
 .citation-details,
 .citation-description {
   width: 100%;
+  line-height: 1.3;
+
 }
 
 .citation-title {
   font-weight: var(--semi-bold);
-  line-height: 1.3;
 }
+
+
 
 .citation-text > .icon {
   position: absolute;
@@ -70,6 +73,7 @@ $wrap: 700px;
 
 .citation-publisher {
   text-transform: capitalize;
+  font-weight: var(--semi-bold);
 }
 
 .citation-description {

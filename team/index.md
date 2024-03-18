@@ -8,12 +8,25 @@ redirect_from:
   - author
 ---
 
-# Lab Director
+# Director
 
 {% capture floatcontent %}
 
 
-{% include portrait.html lookup="angeloudis-p" nointerests=true %}
+<div class="text-center mt-5">
+  <!-- Avatar -->
+  <img src="/images/team/angeloudis-p.jpg"
+       style=" max-width: 200px; "
+       class="portrait-image"
+       />
+
+  <!-- Name & Role -->
+  <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Panagiotis Angeloudis </div> <br>
+  <div class="text-center" style="margin-top: -10px"> Associate Professor (Reader) </div> <br>
+
+
+
+</div>
 
 {% endcapture %}
 
@@ -23,7 +36,7 @@ redirect_from:
 {% assign member = site.members | where: "slug", "angeloudis-p" | first %}
 
 {% for affiliation in member.affiliations %}
-<p style="margin: 0.1px; color: rgb(60,60,60)"> -  <b>{{ affiliation }}</b> </p>
+<p style="margin: 0.1px; "> -  {{ affiliation }} </p>
 {% endfor %}
 
 
@@ -35,22 +48,43 @@ Dr Panagiotis Angeloudis is Reader in Transport Systems & Logistics at the **Cen
 
 
 {% include list.html data="members" component="portrait" filters="role: senior" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|senior$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|senior$|alumni$)" %}
+
+{% include section.html %}
+
+# Alumni
+
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
+
+{% include section.html %}
+
+# Visiting Faculty, Researchers & Students
+
+- **Luciano Greco**,  University of Padova
+- **Kenta Matsui**, Komatsu Corporation
+- **Anna Konovalenko**, Molde University College
+- **Dirk Briskorn**, University of Wuppertal
+- **Luis Marques**, Imperial College London (UROP)
+- **Ryusuke Fujita**, Tokyo Tech
+
+ 
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ We are always looking for new members to our team. We will advertise any funded opportunities that specific to our group on LinkedIn, the UTSG and robotics-worldwide mailing lists, while several scholarship schemes and fellowships are offered by Imperial College London. 
+ 
+ For more information on how to join us, you can review our [recruitment](/apply/) page. 
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photos/itsc.jpg" %}
+{% include figure.html image="images/photos/dinner.jpg" %}
+{% include figure.html image="images/photos/trb.jpg" %}
 
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+

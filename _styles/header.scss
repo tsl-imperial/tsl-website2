@@ -148,6 +148,7 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
+    margin-bottom: 20px;
   }
 
   .title-text {
@@ -158,6 +159,8 @@ header[data-big] {
 
   .title {
     font-size: var(--xxl);
+    margin-bottom: 15px;
+
   }
 
   .subtitle {

@@ -24,7 +24,7 @@ affiliations:
   - Management Committee, Imperial Robotics Forum
 ---
 
-Dr Panagiotis Angeloudis is Reader and Director of the [Transport Systems and Logistics Laboratory](https://transport-systems.imperial.ac.uk) (TSL), based in the [Centre for Transport Engineering & Modelling](https://www.imperial.ac.uk/transport-engineering) (CTEM) at [Imperial College London](https://www.imperial.ac.uk). 
+Dr Panagiotis Angeloudis is Reader and Director of the [Transport Systems and Logistics Laboratory](https://transport-systems.imperial.ac.uk) (TSL) based in the [Centre for Transport Engineering & Modelling](https://www.imperial.ac.uk/transport-engineering) (CTEM) at [Imperial College London](https://www.imperial.ac.uk). 
 
 
 His research focuses on the intersection of autonomous systems, multi-agent modelling and network optimisation and their applications to freight distribution and passenger transportation. His research group specialises in developing high-performance, scalable models that capture the interactions between users, providers, infrastructure and operating regimes. Recent TSL projects have focused on the design of deployment strategies for safe and efficient autonomous transport systems (AVs, drones) for passenger and freight mobility.  
