@@ -1,11 +1,11 @@
 ---
 ---
 
-The Transport Systems & Logistics Lab (TSL) focuses on the algorithms and models that enable the **design**, **management** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphasis is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
+The Transport Systems & Logistics Lab focuses on the algorithms and models for the **design**, **management** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphasis is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
 
-Led by [**Dr Panagiotis Angeloudis**](https://www.imperial.ac.uk/people/p.angeloudis), our lab consists of a team of 15 researchers with expertise in **transportation**, **optimisation**, **machine learning** and **robotics**. We maintain strong collaborations with our network of academic collaborators, industrial partners and policymakers.
+Led by [**Dr Panagiotis Angeloudis**](https://www.imperial.ac.uk/people/p.angeloudis), our team has expertise in **transportation**, **optimisation**, **machine learning** and **robotics**. We have strong links with our academic collaborators, industrial partners and policymakers.
 
-Our objective is to advance the adoption of automation technologies to increase the efficiency and sustainability of the transportation sector.
+Our work aims to advance the adoption of automation and increase the efficiency and sustainability of the transportation sector.
 
 
 {% include section.html %}
@@ -14,9 +14,9 @@ Our objective is to advance the adoption of automation technologies to increase 
 
 {% capture text %}
 
-Our research focuses on how transportation systems can become more efficient, safe and resilient, focusing on the three interlinked strands of **vehicle autonomy**, **modelling** and **control** for **strategic and tactical decision making**. We use advanced models that incorporate the effects of operational uncertainty (future demand, operational disruptions, targetted attacks) in decision-making. 
+Our research focuses on how transport systems can become more efficient, safe and resilient, through the three interlinked strands of **autonomy**, **modelling** and **control** for **strategic and tactical decision making**. The models we built incorporate the effects of operational uncertainty (future demand, operational disruptions, targetted attacks) in real-world operations. 
 
-Our work on tactical decision-making under uncertainty has sought solutions to these problems through **mathematical optimisation**, **reinforcement learning**, **network modelling**, and bespokely developed high performance **agent based modelling** tools.
+We have sought solutions using **optimisation**, **reinforcement learning**, **network modelling**, and bespokely developed high performance **agent based modelling** tools.
 
 
 {%
@@ -45,7 +45,7 @@ Our work on tactical decision-making under uncertainty has sought solutions to t
 
 Our research team is driven by curiosity and zeal for technical challenges. We benefit from strong connections with other laboratories within the Imperial College community, external collaborators, and industry partners. Our alumni have gone on to achieve success in academia, secure influential roles in industry, or launch their own startups.
 
-**Join us:** We are looking for motivated doctoral candidates to join our team, and contribute to the development of models and enabling technologies for transport systems and freight transport. Several sholarships are available for qualified applicants.
+**Join us:** We are looking for motivated doctoral candidates to join our team, and contribute to the development of models and technologies for transport systems and logistics. Several sholarships are available for qualified applicants.
 
 {%
   include button.html
@@ -69,7 +69,7 @@ Our research team is driven by curiosity and zeal for technical challenges. We b
 
 {% include section.html %}
 
-#### Research Themes
+#### Our Themes
 
 {% include list.html component="card" data="projects" filters="group: theme" style="small" %}
 
