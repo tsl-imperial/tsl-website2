@@ -7,7 +7,7 @@ education:
   - "Shandong University: BEng in Computer Science (2019)"
   - "New York University: MSc in Computer Engineering (2021)"
 
-brief-position: Autonomous Vehicles, Computeri Vision
+brief-position: Autonomous Vehicles, Computer Vision
 brief-desc: PhD Student
 links:
   github: https://github.com/zachtian
