@@ -49,7 +49,7 @@ We have sought solutions using **optimisation**, **reinforcement learning**, **n
 
 {% capture text %}
 
-Our research team benefits from the strong links of our group with other laboratories within the Imperial College community, external collaborators, and industry partners. Our alumni have achieved success in academia, secured influential roles in industry, or launched their own startups.
+Our researchers benefit from the strong links of our group with other laboratories within the Imperial College community, external collaborators, and industry partners. Our alumni have achieved success in academia, secured influential roles in industry, or launched their own startups.
 
 **Join us:** We are looking for talented researchers to join our team, and to contribute to the development of next generation of models and technologies for transport systems and logistics. Several sholarships are available for qualified applicants.
 
