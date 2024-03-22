@@ -48,7 +48,7 @@ SW7 2BU, London
 
 {%
   include figure.html
-  image="images/photos/imperial.png"
+  image="images/photos/imperial.jpg"
   caption="Skempton Building"
 %}
 

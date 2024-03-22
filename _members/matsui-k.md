@@ -1,7 +1,7 @@
 ---
 name: Kenta Matsui
 position: PhD Student
-image: images/team/matsui-k.png
+image: images/team/matsui-k.jpg
 role: phd
 education: 
   - "Kyoto University: BEng in Electrical Engineering (2012)"

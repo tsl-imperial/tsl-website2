@@ -7,6 +7,10 @@ Led by [**Dr Panagiotis Angeloudis**](/members/angeloudis-p), our team has exper
 
 Our work aims to advance the adoption of automation and increase the efficiency and sustainability of the transportation sector.
 
+{%
+  include figure.html
+  image="images/team/team.jpg"
+%}
 
 {% include section.html %}
 
@@ -33,7 +37,7 @@ We have sought solutions using **optimisation**, **reinforcement learning**, **n
 
 {%
   include feature.html
-  image="images/img_research.jpeg"
+  image="images/img_research.jpg"
   link="projects"
   title="Our Research"
   flip=true
@@ -77,8 +81,9 @@ Our research team is driven by curiosity and zeal for technical challenges. We b
 
 {%
   include feature.html
-  image="images/img_team.jpeg"
+  image="images/img_team.jpg"
   link="team"
   title="Our Team"
+  style="bare"
   text=text
 %}

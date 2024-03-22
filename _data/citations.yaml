@@ -251,7 +251,7 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
-  image: /images/papers/highlight-redist.png
+  image: /images/papers/highlight-redist.jpg
   group:
   - featured
 - id: doi:10.3390/su13010168
@@ -414,7 +414,7 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
-  image: /images/papers/highlight-supply-res.png
+  image: /images/papers/highlight-supply-res.jpg
   group:
   - featured
 - id: doi:10.1108/ECAM-01-2020-0058
@@ -471,7 +471,7 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
-  image: /images/papers/highlight-urban.png
+  image: /images/papers/highlight-urban.jpg
   group:
   - featured
 - id: doi:10.1016/j.aap.2016.04.030
@@ -491,7 +491,7 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
-  image: /images/papers/highlight-container-disruption.png
+  image: /images/papers/highlight-container-disruption.jpg
   group:
   - featured
 - id: doi:10.1109/ITSC.2019.8917399
@@ -957,7 +957,7 @@
   publisher: Artificial Intelligence
   date: '2023-07-01'
   link: https://doi.org/gtm6f9
-  image: /images/papers/highlight-edu-jai.png
+  image: /images/papers/highlight-edu-jai.jpg
   group:
   - featured
   plugin: sources.py
@@ -1047,7 +1047,7 @@
     Systems (ITSC)
   date: '2023-09-24'
   link: https://doi.org/gtm6gd
-  image: /images/papers/highlight-scenario.png
+  image: /images/papers/highlight-scenario.jpg
   group:
   - featured
   plugin: sources.py

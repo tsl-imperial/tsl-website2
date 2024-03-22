@@ -1,7 +1,7 @@
 ---
 name: Kevin Qu
 position: PhD Student
-image: images/team/qu-k.png
+image: images/team/qu-k.jpg
 role: phd
 education: 
   - "University of Edinburgh: BEng in Mechanical Engineering (2021)"
