@@ -97,3 +97,31 @@ Our researchers benefit from the strong links of our group with other laboratori
   style="bare"
   text=text
 %}
+
+
+{% include section.html %}
+
+#### Our Funders
+
+
+{% capture col1 %}
+<img src="images/funders/ukri.jpg">
+{% endcapture %}
+
+{% capture col2 %}
+<img src="images/funders/jsps.jpg">
+{% endcapture %}
+
+{% capture col3 %}
+<img src="images/funders/innovateuk.jpg">
+{% endcapture %}
+
+{% capture col4 %}
+<img src="images/funders/alan-turing.jpg">
+{% endcapture %}
+
+{% capture col5 %}
+<img src="images/funders/hefce.jpg">
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5%}
