@@ -7,6 +7,8 @@ education:
   - "Liverpool John Moores: BEng(hons) Electrical and Electronic Engineering (2019)"
 brief-position: Optimisation, Shipping Networks, Energy Commodities
 brief-desc: PhD Student
+redirect_from:
+  - author/josh-kirk/
 links:
   linkedin: https://www.linkedin.com/in/j-kirk/
   github: https://github.com/this-josh

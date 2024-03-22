@@ -1,4 +1,10 @@
 ---
+redirect_from:
+  - research/logistics/
+  - categories/
+  - home/
+  - research/autonomy/
+  - tags/
 ---
 
 
@@ -42,7 +48,7 @@ We have sought solutions using **optimisation**, **reinforcement learning**, **n
   image="images/img_research.jpg"
   link="projects"
   title="Our Research"
-  flip=true
+  flip=tru
   style="bare"
   text=text
 %}

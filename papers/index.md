@@ -6,6 +6,10 @@ nav:
 redirect_from: 
   - research
   - research_highlights
+  - publication_types/
+  - publication-type/6/
+  - publication-type/1/
+
 ---
 
 # Publications
