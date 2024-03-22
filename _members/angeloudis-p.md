@@ -16,7 +16,8 @@ links:
   linkedin: https://www.linkedin.com/in/panagiotisangeloudis/
   github: https://github.com/p-ang
   twitter: https://twitter.com/pangeloudis
-
+redirect_from:
+  - author/panagiotis-angeloudis/
 affiliations:
   - Reader (Associate Professor) in Transport Systems & Logistics
   - Turing Fellow, Alan Turing Institute
