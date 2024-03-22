@@ -1,6 +1,8 @@
 ---
 ---
 
+
+
 The Transport Systems & Logistics Lab focuses on the algorithms and models for the **design**, **management** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphasis is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
 
 Led by [**Dr Panagiotis Angeloudis**](/members/angeloudis-p), our team has expertise in **transportation**, **optimisation**, **machine learning** and **robotics**. We have strong links with our academic collaborators, industrial partners and policymakers.
@@ -47,9 +49,9 @@ We have sought solutions using **optimisation**, **reinforcement learning**, **n
 
 {% capture text %}
 
-Our research team is driven by curiosity and zeal for technical challenges. We benefit from strong connections with other laboratories within the Imperial College community, external collaborators, and industry partners. Our alumni have gone on to achieve success in academia, secure influential roles in industry, or launch their own startups.
+Our research team benefits from the strong links of our group with other laboratories within the Imperial College community, external collaborators, and industry partners. Our alumni have achieved success in academia, secured influential roles in industry, or launched their own startups.
 
-**Join us:** We are looking for motivated doctoral candidates to join our team, and contribute to the development of models and technologies for transport systems and logistics. Several sholarships are available for qualified applicants.
+**Join us:** We are looking for talented researchers to join our team, and to contribute to the development of next generation of models and technologies for transport systems and logistics. Several sholarships are available for qualified applicants.
 
 {%
   include button.html
