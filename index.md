@@ -5,6 +5,8 @@ redirect_from:
   - home/
   - research/autonomy/
   - tags/
+  - tag/autonomy
+  - project/shift-project/
 ---
 
 

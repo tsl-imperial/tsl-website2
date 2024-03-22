@@ -7,8 +7,12 @@ redirect_from:
   - research
   - research_highlights
   - publication_types/
-  - publication-type/6/
   - publication-type/1/
+  - publication-type/2/
+  - publication-type/3/
+  - publication-type/4/
+  - publication-type/5/
+  - publication-type/6/
 
 ---
 
