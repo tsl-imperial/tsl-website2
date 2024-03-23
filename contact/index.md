@@ -49,7 +49,7 @@ SW7 2BU, London
 {%
   include figure.html
   image="images/photos/imperial.jpg"
-  caption="Skempton Building"
+  caption="South Kensington Campus"
 %}
 
 {% endcapture %}
