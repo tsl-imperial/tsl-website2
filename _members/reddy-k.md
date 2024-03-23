@@ -11,6 +11,8 @@ brief-desc: Research Associate
 links:
   linkedin: https://www.linkedin.com/in/kethan-reddy/
   github: https://github.com/KethanR
+redirect_from:
+  - /author/kethan-reddy/	
 ---
 
 

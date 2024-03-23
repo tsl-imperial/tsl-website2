@@ -12,6 +12,8 @@ brief-desc: PhD Student
 links:
   github: https://github.com/zachtian
   linkedin: https://www.linkedin.com/in/hanlintian
+redirect_from:
+ - author/hanlin-zach-tian/	
 
 ---
 

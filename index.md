@@ -1,12 +1,20 @@
 ---
 redirect_from:
-  - research/logistics/
-  - categories/
   - home/
+  - cive60008_21/
+  - cive60008_22/assignments/1/
+  - cive60008_21/week01/seminar1/
+  - cive60008_22/week06/notebooks/
+  - cive97129_23/assignments/2/
+  - demo-pathfinding/
+  - project/shift-project/
   - research/autonomy/
+  - research/logistics/
   - tags/
   - tag/autonomy
-  - project/shift-project/
+  - tf/
+  - tf/60008_21/
+  - wsds/
 ---
 
 
