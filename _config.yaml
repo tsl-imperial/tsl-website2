@@ -66,9 +66,11 @@ sass:
 include:
   - _styles
   - _scripts
+  - _redirects
 
 # force jekyll to exclude certain files/folders
 exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
