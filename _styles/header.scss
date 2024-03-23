@@ -39,12 +39,23 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: 40px;
+  width: 93px; 
 }
 
-.logo > * {
-  height: 100%;
+@media (max-width: 450px) {
+  .logo {
+    display: none;
+  }
+  
 }
+
+
+// .logo > * {
+//   height: 100%;
+//   width: 93px;
+
+// }
 
 .title-text {
   display: flex;
@@ -55,7 +66,16 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
+  max-width: 350px;
 }
+
+@media (max-width: 300px) {
+  .title-text {
+    max-width: 170px;
+  }
+  
+}
+
 
 .title {
   font-size: var(--large);
@@ -65,6 +85,14 @@ header a {
   opacity: 0.65;
   font-weight: var(--thin);
 }
+
+@media (max-width: 450px) {
+  .subtitle {
+    display: none;
+  }
+  
+}
+
 
 .nav-toggle {
   display: none;
