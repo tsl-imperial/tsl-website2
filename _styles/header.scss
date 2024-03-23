@@ -43,13 +43,6 @@ header a {
   width: 93px; 
 }
 
-@media (max-width: 450px) {
-  .logo {
-    display: none;
-  }
-  
-}
-
 .title-text {
   display: flex;
   justify-content: flex-start;
@@ -77,14 +70,6 @@ header a {
   opacity: 0.65;
   font-weight: var(--thin);
 }
-
-@media (max-width: 450px) {
-  .subtitle {
-    display: none;
-  }
-  
-}
-
 
 .nav-toggle {
   display: none;
@@ -137,6 +122,19 @@ header:not([data-big]) {
     max-width: 350px;
   }
   
+  @media (max-width: 450px) {
+    .logo {
+      display: none;
+    }
+  }
+
+  @media (max-width: 450px) {
+    .subtitle {
+      display: none;
+    }
+  }
+  
+
   @media (max-width: $collapse) {
     justify-content: flex-end;
 
