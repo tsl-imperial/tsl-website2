@@ -12,6 +12,7 @@ redirect_from:
   - research/logistics/
   - tags/
   - tag/autonomy
+  - teaching/
   - tf/
   - tf/60008_21/
   - wsds/
