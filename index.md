@@ -4,6 +4,7 @@ redirect_from:
   - cive60008_21/
   - cive60008_22/assignments/1/
   - cive60008_21/week01/seminar1/
+  - cive60008_22/
   - cive60008_22/week06/notebooks/
   - cive97129_23/assignments/2/
   - demo-pathfinding/
@@ -20,7 +21,7 @@ redirect_from:
 
 
 
-The Transport Systems & Logistics Lab focuses on the algorithms and models for the **design**, **management** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphasis is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
+The Transport Systems & Logistics Laboratory focuses on the algorithms and models for the **design**, **management** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphasis is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
 
 Led by [**Dr Panagiotis Angeloudis**](/members/angeloudis-p), our team has expertise in **transportation**, **optimisation**, **machine learning** and **robotics**. We have strong links with our academic collaborators, industrial partners and policymakers.
 
