@@ -12,6 +12,8 @@ brief-desc: PhD Student
 links:
   github: https://github.com/
   linkedin: https://www.linkedin.com/in/elias-m-nassif/
+redirect_from:
+  - author/elias-nassif/
 ---
 
 Elias is a doctoral researcher at the Transport Systems and Logistics Laboratory within the Centre for Transport Studies at Imperial College London. His PhD research focuses on the safety of autonomous driving systems. His areas of interest include engineering safety by design, scenario-based testing, in-use monitoring, and regulatory compliance of autonomous vehicles. Elias is co-supervised by [Dr Panagiotis Angeloudis](https://transport-systems.imperial.ac.uk/author/panagiotis-angeloudis/), [Prof Washington Ochieng](https://www.imperial.ac.uk/people/w.ochieng), and [Prof Mohammed Quddus](https://www.imperial.ac.uk/people/m.quddus).
