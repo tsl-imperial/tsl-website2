@@ -7,6 +7,10 @@ header: images/background.jpg
 footer: images/background_imp-light.jpg
 proofer: false
 
+
+url:  https://transport-systems.imperial.ac.uk
+baseurl: ''
+
 # site social media and other links
 links:
   email: p.angeloudis@imperial.ac.uk
