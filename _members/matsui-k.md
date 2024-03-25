@@ -12,6 +12,8 @@ brief-desc: PhD Student
 links:
   website: https://www.imperial.ac.uk/people/kenta-matsui
   linkedin: https://www.linkedin.com/in/kenta-matsui-ab05aa159/
+redirect_from:
+  - author/kenta-matsui/
 ---
 
 Kenta Matsui is a Sponsored Researcher at the Transport Systems and Logistics Laboratory since March 2022. His reserach focuses on fleet management algorithms for autonomous mining dump trucks.

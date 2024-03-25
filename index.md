@@ -5,6 +5,7 @@ redirect_from:
   - cive60008_22/assignments/1/
   - cive60008_21/week01/seminar1/
   - cive60008_22/
+  - cive97129_23/assignments/1/
   - cive60008_22/week06/notebooks/
   - cive97129_23/assignments/2/
   - demo-pathfinding/

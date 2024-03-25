@@ -134,7 +134,6 @@ header:not([data-big]) {
     }
   }
   
-
   @media (max-width: $collapse) {
     justify-content: flex-end;
 
@@ -151,9 +150,6 @@ header:not([data-big]) {
       flex-direction: column;
       width: 100%;
     }
-
-
-
   }
 }
 

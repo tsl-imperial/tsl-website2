@@ -1,9 +1,10 @@
 ---
-title: Papers
+title: Publications
 nav:
   order: 2
   tooltip: Published works
 redirect_from: 
+  - publications
   - research
   - research_highlights
   - publication_types/
