@@ -2,11 +2,20 @@
 redirect_from:
   - home/
   - cive60008_21/
-  - cive60008_22/assignments/1/
   - cive60008_21/week01/seminar1/
   - cive60008_22/
-  - cive97129_23/assignments/1/
+  - cive60008_22/assignments/1/
+  - cive60008_22/assignments/2/
+  - cive60008_22/week01/notebooks/
+  - cive60008_22/week02/notebooks/
+  - cive60008_22/week03/notebooks/
+  - cive60008_22/week04/notebooks/
+  - cive60008_22/week05/notebooks/
   - cive60008_22/week06/notebooks/
+  - cive60008_22/week07/notebooks/
+  - cive60008_22/week08/notebooks/
+  - cive60008_22/week09/notebooks/
+  - cive97129_23/assignments/1/
   - cive97129_23/assignments/2/
   - demo-pathfinding/
   - project/shift-project/
