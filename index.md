@@ -125,7 +125,7 @@ Our researchers benefit from the strong links of our group with other laboratori
 
 
 {% capture col1 %}
-<img src="images/funders/ukri.jpg">
+<img src="images/funders/ukri.svg">
 {% endcapture %}
 
 {% capture col2 %}
@@ -133,11 +133,11 @@ Our researchers benefit from the strong links of our group with other laboratori
 {% endcapture %}
 
 {% capture col3 %}
-<img src="images/funders/innovateuk.jpg">
+<img src="images/funders/innovateuk.svg">
 {% endcapture %}
 
 {% capture col4 %}
-<img src="images/funders/alan-turing.jpg">
+<img src="images/funders/alan-turing.svg">
 {% endcapture %}
 
 {% capture col5 %}
