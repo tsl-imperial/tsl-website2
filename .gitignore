@@ -15,3 +15,5 @@ yarn.lock
 node_modules
 inspiration/*
 todo.md
+dnp_testbed.md
+testbed.md
