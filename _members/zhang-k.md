@@ -8,6 +8,8 @@ education:
   - "Imperial College London: MSc in Transportation (2021)"
 brief-position: Urban Logistics, Game Theory, Traffic Simulation
 brief-desc: PhD Student
+redirect_from:
+  - author/keyang-zhang/
 links:
   linkedin: https://uk.linkedin.com/in/keyang-zhang-71195a1b0/
   github: https://github.com/3238051
