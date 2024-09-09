@@ -1,6 +1,6 @@
 ---
 name: Panagiotis Angeloudis
-position: Reader in Transport Systems & Logistics
+position: Professor of Transport Systems & Logistics
 image: images/team/angeloudis-p.jpg
 role: pi
 education: 
@@ -9,7 +9,7 @@ education:
 aliases:
   - Angeloudis
 brief-position: Group Director, Transport Systems, Logistics
-brief-desc: Associate Professor (Reader)
+brief-desc: Professor
 links:
   home-page: https://www.imperial.ac.uk/people/p.angeloudis
   google-scholar: pyOTFWoAAAAJ
@@ -19,13 +19,13 @@ links:
 redirect_from:
   - author/panagiotis-angeloudis/
 affiliations:
-  - Reader (Associate Professor) in Transport Systems & Logistics
+  - Professor of Transport Systems & Logistics
   - Turing Fellow, Alan Turing Institute
   - Director of Postgraduate Teaching, MSc in Transport
   - Management Committee, Imperial Robotics Forum
 ---
 
-Dr Panagiotis Angeloudis is Reader and Director of the [Transport Systems and Logistics Laboratory](https://transport-systems.imperial.ac.uk) based in the [Centre for Transport Engineering & Modelling](https://www.imperial.ac.uk/transport-engineering) at [Imperial College London](https://www.imperial.ac.uk). He is also a Turing Fellow with the [Alan Turing Institute](https://www.turing.ac.uk).
+Professor Panagiotis Angeloudis is the Director of the [Transport Systems and Logistics Laboratory](https://transport-systems.imperial.ac.uk), based in the [Centre for Transport Engineering & Modelling](https://www.imperial.ac.uk/transport-engineering) at [Imperial College London](https://www.imperial.ac.uk). He is also a Turing Fellow with the [Alan Turing Institute](https://www.turing.ac.uk).
 
 
 His research focuses on the intersection of autonomous systems, multi-agent modelling and network optimisation and their applications to freight distribution and passenger transportation. His research group specialises in developing high-performance, scalable models that capture the interactions between users, providers, infrastructure and operating regimes. Recent TSL projects have focused on the design of deployment strategies for safe and efficient autonomous transport systems (AVs, drones) for passenger and freight mobility.  

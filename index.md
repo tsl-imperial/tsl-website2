@@ -33,9 +33,7 @@ redirect_from:
 
 The Transport Systems & Logistics Laboratory focuses on the algorithms and models for the **design**, **management** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphasis is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
 
-Led by [**Dr Panagiotis Angeloudis**](/members/angeloudis-p), our team has expertise in **transportation**, **optimisation**, **machine learning** and **robotics**. We have strong links with our academic collaborators, industrial partners and policymakers.
-
-Our work aims to advance the adoption of automation and increase the efficiency and sustainability of the transportation sector.
+TSL is led by [**Professor Panagiotis Angeloudis**](/members/angeloudis-p). We have strong links with our wide network of academic collaborators, industrial partners and policymakers.
 
 {%
   include figure.html
