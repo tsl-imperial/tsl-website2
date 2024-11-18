@@ -1,8 +1,8 @@
 # site properties and page defaults
-title: Transport Systems & Logistics Laboratory
+title: devkyle4
 share_title: Transport Systems and Logistics Laboratory (TSL), Imperial College London
-subtitle: Imperial College London
-description: 
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background_imp-light.jpg
 proofer: false
@@ -13,10 +13,10 @@ baseurl: ''
 
 # site social media and other links
 links:
-  email: p.angeloudis@imperial.ac.uk
+  email: contact@devkyle4.com
   # orcid: 0000-0001-8713-9213
   google-scholar: pyOTFWoAAAAJ
-  github: tsl-imperial
+  github: devkyle4
   # twitter: YourLabHandle
   # youtube: YourLabChannel
 
