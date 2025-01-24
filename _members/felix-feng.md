@@ -11,7 +11,7 @@ aliases:
   - J. Smith
   - J Smith
 brief-position: Autonomous Vehicles, Sensors, Positioning, Simulation
-brief-desc: Lab Manager & Postdoc
+brief-desc: Research Fellow
 links:
   email: y.feng19@imperial.ac.uk
   linkedin: http://linkedin.com/in/yuxiang-felix-feng-4402ba82/

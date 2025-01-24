@@ -31,9 +31,11 @@ redirect_from:
 
 
 
-The Transport Systems & Logistics Laboratory focuses on the algorithms and models for the **design**, **management** and **deployment** of **autonomous transport systems**, in **land**, **air** and **water**. Our emphasis is on  **distributed control**, optimising **freight distribution** and building **resilience against disruptions**.
+The Transport Systems & Logistics Laboratory at Imperial College London develops algorithms and models for the optimal deployment of vehicle fleets in land-, air- and sea-based transport systems. 
 
-TSL is led by [**Professor Panagiotis Angeloudis**](/members/angeloudis-p). We have strong links with our wide network of academic collaborators, industrial partners and policymakers.
+Our emphasis is in solutions that involve **autonomous decision-making** and improve **operational efficiency** and **resilience against disruptions**.
+
+Our group is led by [**Prof Panagiotis Angeloudis**](/members/angeloudis-p).
 
 {%
   include figure.html

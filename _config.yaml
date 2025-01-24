@@ -3,9 +3,10 @@ title: Transport Systems & Logistics Laboratory
 share_title: Transport Systems and Logistics Laboratory (TSL), Imperial College London
 subtitle: Imperial College London
 description: 
-header: images/background.jpg
+header: 
 footer: images/background_imp-light.jpg
 proofer: false
+header-dark: false
 
 
 url:  https://transport-systems.imperial.ac.uk

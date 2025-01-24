@@ -1,8 +1,8 @@
 ---
 name: Leandro Parada
-position: PhD Student
+position: Research Associate
 image: images/team/parada-l.jpg
-role: phd
+role: senior
 education: 
   - "Universidad de Concepción: MSc in Indrustial Engineering (2016)"
   - "Universidad de Concepción: Dipl in Mechanical Engineering (2015)"
@@ -10,7 +10,7 @@ aliases:
   - L. Parada
   - Leandro Parada
 brief-position: Autonomous Vehicles, Reinforcement Learning, Cybersecurity
-brief-desc: PhD Student
+brief-desc: Research Associate
 links:
   home-page: https://www.imperial.ac.uk/people/l.parada-pradenas20
   email: l.parada-pradenas20@imperial.ac.uk
