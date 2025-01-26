@@ -2,7 +2,7 @@
 name: Leo Hsu
 image: images/team/hsu-l.jpg
 role: alumni
-brief-position: Kingston University
-external-page-only: https://scholar.google.com/citations?user=Wal670sAAAAJ&hl=en
+brief-position: Loughborough University
+external-page-only: https://www.lboro.ac.uk/departments/abce/staff/pei-yuan-hsu/
 ---
 

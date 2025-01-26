@@ -9,8 +9,8 @@ education:
 brief-position: Reinforcement Learning, Computer Vision, Autonomous Vehicle Operations
 brief-desc: Research Associate
 links:
-  linkedin: https://www.linkedin.com/in/kethan-reddy/
-  github: https://github.com/KethanR
+  linkedin: kethan-reddy
+  github: KethanR
 redirect_from:
   - /author/kethan-reddy/	
 ---

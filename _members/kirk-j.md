@@ -10,8 +10,8 @@ brief-desc: PhD Student
 redirect_from:
   - author/josh-kirk/
 links:
-  linkedin: https://www.linkedin.com/in/j-kirk/
-  github: https://github.com/this-josh
+  linkedin: j-kirk
+  github: this-josh
 ---
 
 Josh is a Skempton Scholar who joined the Transport Systems and Logistics (TSL) Laboratory in 2023, his research focuses on the supply chains required to implement Space Based Solar Power. This project is co-supervised by [Dr Panagiotis Angeloudis](https://www.imperial.ac.uk/people/p.angeloudis), [Prof. Washington Ochieng](https://www.imperial.ac.uk/people/w.ochieng). 

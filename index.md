@@ -30,27 +30,18 @@ redirect_from:
 ---
 
 
+The **Transport Systems & Logistics Laboratory** at Imperial College London undertakes research in transport operations, with an emphasis on **computational optimisation**, **autonomous technologies**, and **artificial intelligence**.
 
-The Transport Systems & Logistics Laboratory at Imperial College London develops algorithms and models for the optimal deployment of vehicle fleets in land-, air- and sea-based transport systems. 
+Our research and algorithms enable transport operators to maximise **operational efficiency** and provide **strategic resilience** against systemic disruptions.
 
-Our emphasis is in solutions that involve **autonomous decision-making** and improve **operational efficiency** and **resilience against disruptions**.
+Our group is led by [**Prof Panagiotis Angeloudis**](/members/angeloudis-p), and is affiliated with the **Imperial Robotics Forum**, the **Alan Turing Institute** and the **Institute for Security Science and Technology**.
 
-Our group is led by [**Prof Panagiotis Angeloudis**](/members/angeloudis-p).
-
+<!-- 
 {%
   include figure.html
   image="images/team/team.jpg"
-%}
+%} -->
 
-{% include section.html %}
-
-
-
-{% capture text %}
-
-Our research focuses on how transport systems can become more efficient, safe and resilient, through the three interlinked strands of **autonomy**, **modelling** and **control** for **strategic and tactical decision making**. The models we built incorporate the effects of operational uncertainty (future demand, operational disruptions, targetted attacks) in real-world operations. 
-
-We have sought solutions using **optimisation**, **reinforcement learning**, **network modelling**, and bespokely developed high performance **agent based modelling** tools.
 
 
 {%
@@ -63,17 +54,7 @@ We have sought solutions using **optimisation**, **reinforcement learning**, **n
 %}
 
 
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/img_research.jpg"
-  link="projects"
-  title="Our Research"
-  flip=tru
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
@@ -107,7 +88,17 @@ Our researchers benefit from the strong links of our group with other laboratori
 
 {% include list.html component="card" data="projects" filters="group: theme" style="small" %}
 
+
+
+
+
+
 {% include section.html %}
+
+
+
+
+
 
 {%
   include feature.html
@@ -140,8 +131,5 @@ Our researchers benefit from the strong links of our group with other laboratori
 <img src="images/funders/alan-turing.svg">
 {% endcapture %}
 
-{% capture col5 %}
-<img src="images/funders/hefce.jpg">
-{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5%}

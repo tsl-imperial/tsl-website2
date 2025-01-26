@@ -9,8 +9,8 @@ education:
 brief-position: Computer Vision, Digital Twins, Construction Site Safety
 brief-desc: PhD Student
 links:
-  linkedin: https://www.linkedin.com/in/wu-zhengyu/
-  github: https://github.com/MagicDroidX
+  linkedin: wu-zhengyu
+  github: MagicDroidX
 ---
 
 

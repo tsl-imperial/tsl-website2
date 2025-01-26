@@ -9,8 +9,8 @@ education:
 brief-position: Traffic Simulation, Co-operative Control, Autonomous Vehicles
 brief-desc: PhD Student
 links:
-  linkedin: https://www.linkedin.com/in/kevinqu0820/
-  github: https://github.com/kyy82
+  linkedin: kevinqu0820
+  github: kyy82
 ---
 
 

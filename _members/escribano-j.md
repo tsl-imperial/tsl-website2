@@ -12,10 +12,9 @@ brief-position: Aviation, Logistics, Simulation, Optimisation
 brief-desc: Lecturer
 links:
   email: jose.escribano-macias11@imperial.ac.uk
-  twitter: https://twitter.com/jescribano93
-  linkedin: https://www.linkedin.com/in/jose-escribano/"
-  google-scholar: https://scholar.google.co.uk/citations?user=oG83iIoAAAAJ
-  github: https://github.com/JoseEscribano
+  linkedin: jose-escribano
+  google-scholar: oG83iIoAAAAJ
+  github: JoseEscribano
 affiliations:
   - Lecturer in Aviation & Logistics
   - Director of Admissions, MSc in Transport

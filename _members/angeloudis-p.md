@@ -13,9 +13,8 @@ brief-desc: Professor
 links:
   home-page: https://www.imperial.ac.uk/people/p.angeloudis
   google-scholar: pyOTFWoAAAAJ
-  linkedin: https://www.linkedin.com/in/panagiotisangeloudis/
-  github: https://github.com/p-ang
-  twitter: https://twitter.com/pangeloudis
+  linkedin: panagiotisangeloudis
+  github: p-ang
 redirect_from:
   - author/panagiotis-angeloudis/
 affiliations:

@@ -11,8 +11,8 @@ brief-desc: PhD Student
 redirect_from:
   - author/keyang-zhang/
 links:
-  linkedin: https://uk.linkedin.com/in/keyang-zhang-71195a1b0/
-  github: https://github.com/3238051
+  linkedin: keyang-zhang-71195a1b0
+  github: 3238051
 ---
 
 

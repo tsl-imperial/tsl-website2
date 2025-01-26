@@ -10,8 +10,8 @@ education:
 brief-position: Autonomous Vehicles, Computer Vision
 brief-desc: PhD Student
 links:
-  github: https://github.com/zachtian
-  linkedin: https://www.linkedin.com/in/hanlintian
+  github: zachtian
+  linkedin: hanlintian
 redirect_from:
  - author/hanlin-zach-tian/	
 

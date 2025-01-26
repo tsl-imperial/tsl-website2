@@ -14,9 +14,9 @@ brief-position: Autonomous Vehicles, Sensors, Positioning, Simulation
 brief-desc: Research Fellow
 links:
   email: y.feng19@imperial.ac.uk
-  linkedin: http://linkedin.com/in/yuxiang-felix-feng-4402ba82/
-  google-scholar: https://scholar.google.co.uk/citations?user=bUIOZKoAAAAJ
-  github: https://github.com/Felix-Feng-90
+  linkedin: yuxiang-felix-feng-4402ba82
+  google-scholar: bUIOZKoAAAAJ
+  github: Felix-Feng-90
 ---
 
 Felix (Yuxiang) Feng is a Research Associate at the Transport Systems and Logistics Laboratory in the Centre for Transport studies. His current research focuses on the the use of automotive system models to facilitate the safety validation of autonomous vehicles.  

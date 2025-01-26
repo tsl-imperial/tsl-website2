@@ -11,7 +11,7 @@ brief-position: Autonomous Vehicles, Fleet Management, Industrial Transport
 brief-desc: PhD Student
 links:
   website: https://www.imperial.ac.uk/people/kenta-matsui
-  linkedin: https://www.linkedin.com/in/kenta-matsui-ab05aa159/
+  linkedin: kenta-matsui-ab05aa159
 redirect_from:
   - author/kenta-matsui/
 ---

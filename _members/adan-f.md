@@ -8,8 +8,8 @@ education:
 brief-position: Autonomous Vehicles, Optimal Control, Machine Learning
 brief-desc: PhD Student
 links:
-  linkedin: https://www.linkedin.com/in/fahmy-adan-5225a3125/
-  github: https://github.com/fahmyadan
+  linkedin: fahmy-adan-5225a3125
+  github: fahmyadan
 ---
 
 Fahmy is a Ph.D. candidate at the Transport Systems and Logistics Laboratory within the Centre for Transport Studies at Imperial College London. His research interests lie at the intersection of cooperative, connected vehicles, machine learning, and optimal control.

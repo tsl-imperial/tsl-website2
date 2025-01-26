@@ -10,8 +10,7 @@ education:
 brief-position: Autonomous Vehicle Regulation, Safety & Compliance
 brief-desc: PhD Student
 links:
-  github: https://github.com/
-  linkedin: https://www.linkedin.com/in/elias-m-nassif/
+  linkedin: elias-m-nassif
 redirect_from:
   - author/elias-nassif/
 ---
