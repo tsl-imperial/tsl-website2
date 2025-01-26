@@ -1,5 +1,74 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/LRA.2025.3531146
+  title: 'IntNet: A Communication-Driven Multi-Agent Reinforcement Learning Framework
+    for Cooperative Autonomous Driving'
+  authors:
+  - Leandro Parada
+  - Kevin Yu
+  - Panagiotis Angeloudis
+  publisher: IEEE Robotics and Automation Letters
+  date: '2025-01-01'
+  link: https://doi.org/g82fn6
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/OJITS.2025.3530268
+  title: Risk-Aware Stochastic Vehicle Trajectory Prediction With Spatial-Temporal
+    Interaction Modelling
+  authors:
+  - Yuxiang Feng
+  - Qiming Ye
+  - Eduardo Candela
+  - Jose Escribano-Macias
+  - Bo Hu
+  - Yiannis Demiris
+  - Panagiotis Angeloudis
+  publisher: IEEE Open Journal of Intelligent Transportation Systems
+  date: '2025-01-01'
+  link: https://doi.org/g82fn7
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/aerospace11110921
+  title: 'Evaluation of Air Traffic Network Resilience: A UK Case Study'
+  authors:
+  - Tianyu Zhao
+  - Jose Escribano-Macias
+  - Mingwei Zhang
+  - Shenghao Fu
+  - Yuxiang Feng
+  - Mireille Elhajj
+  - Arnab Majumdar
+  - Panagiotis Angeloudis
+  - Washington Ochieng
+  publisher: Aerospace
+  date: '2024-11-08'
+  link: https://doi.org/g8wfw9
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s24196254
+  title: Temporally Correlated Deep Learning-Based Horizontal Wind-Speed Prediction
+  authors:
+  - Lintong Li
+  - Jose Escribano-Macias
+  - Mingwei Zhang
+  - Shenghao Fu
+  - Mingyang Huang
+  - Xiangmin Yang
+  - Tianyu Zhao
+  - Yuxiang Feng
+  - Mireille Elhajj
+  - Arnab Majumdar
+  - Panagiotis Angeloudis
+  - Washington Ochieng
+  publisher: Sensors
+  date: '2024-09-27'
+  link: https://doi.org/g8wfxb
+  orcid: 0000-0002-6778-8264
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1177/03611981231160157
   title: 'Policy and Strategy Evaluation of Ridesharing Autonomous Vehicle Operation:
     A London Case Study'
@@ -491,9 +560,6 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
-  image: /images/papers/highlight-container-disruption.jpg
-  group:
-  - featured
 - id: doi:10.1109/ITSC.2019.8917399
   title: Simulation and Evaluation of CAVs Behavior in an Isolated Signalized Intersection
     Equipped with Dynamic Wireless Power Transfer System
@@ -631,7 +697,7 @@
   - Pei-Yuan Hsu
   - Marco Aurisicchio
   - Panagiotis Angeloudis
-  publisher: 25th Annual Conference of the International Group for Lean Construction
+  publisher: Annual Conference of the International Group for Lean Construction
   date: '2017-07-09'
   link: https://doi.org/gtm4h3
   orcid: 0000-0002-6778-8264
@@ -868,6 +934,149 @@
   orcid: 0000-0002-6778-8264
   plugin: sources.py
   file: sources.yaml
+- id: 10.1109/LRA.2025.3531146
+  title: 'IntNet: A Communication-Driven Multi-Agent Reinforcement Learning Framework
+    for Cooperative Autonomous Driving'
+  authors:
+  - Leandro Parada
+  - Kevin Yu
+  - Panagiotis Angeloudis
+  publisher: IEEE Robotics and Automation Letters
+  date: '2025-01-01'
+  link: https://doi.org/g82fn6
+  group:
+  - featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC57777.2023.10422131
+  title: Real-time Dispatching for Autonomous Vehicles in Open-pit Mining Deployments
+    using Deep Reinforcement Learning
+  authors:
+  - Kenta Matsui
+  - Jose Escribano
+  - Panagiotis Angeloudis
+  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2023-09-24'
+  link: https://doi.org/gtm6gb
+  group:
+  - featured
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.ifacol.2024.07.333
+  title: Decentralised Motion Planning for Autonomous Mining Haulage Trucks using
+    Prioritised Multi-Agent MPPI
+  authors:
+  - Kenta Matsui
+  - Fahmy Adan
+  - Panagiotis Angeloudis
+  publisher: IFAC-PapersOnLine
+  date: '2024-01-01'
+  link: https://doi.org/g82375
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2404.08570
+  title: Enhancing Autonomous Vehicle Training with Language Model Integration and
+    Critical Scenario Generation
+  authors:
+  - Hanlin Tian
+  - Kethan Reddy
+  - Yuxiang Feng
+  - Mohammed Quddus
+  - Yiannis Demiris
+  - Panagiotis Angeloudis
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g82376
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.aets.2024.06.001
+  title: Enhancing air traffic operational efficiency by reducing network scale
+  authors:
+  - Tianyu Zhao
+  - Jose Escribano-Macias
+  - Mingwei Zhang
+  - Shenghao Fu
+  - Yuxiang Feng
+  - Mireille Elhajj
+  - Arnab Majumdar
+  - Panagiotis Angeloudis
+  - Washington Yotto Ochieng
+  publisher: Aerospace Traffic and Safety
+  date: '2024-03-01'
+  link: https://doi.org/g82377
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.35490/EC3.2024.195
+  title: Development of a Digital Twin-Based Simulation System and A Novel Synthetic
+    Video Dataset for Enhancing Computer Vision in Construction Site Safety
+  authors:
+  - Zhengyu Wu
+  - Yuxiang Feng
+  - Yiannis Demiris
+  - Panagiotis Angeloudis
+  publisher: Computing in Construction
+  date: '2024-07-14'
+  link: https://doi.org/g82378
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.2139/ssrn.4899536
+  title: 'Optimising Global Trade Flows in Energy Markets: A Network Flow Analysis
+    of Natural Gas Supply During Geopolitical Disruptions'
+  authors:
+  - Josh Kirk
+  - Panagiotis Angeloudis
+  - Washington Ochieng
+  publisher: Elsevier BV
+  date: '2024-01-01'
+  link: https://doi.org/g82379
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2407.15596
+  title: Towards a Universal Evaluation Model for Careful and Competent Autonomous
+    Driving
+  authors:
+  - Kethan Reddy
+  - Elias Nassif
+  - Panagiotis Angeloudis
+  - Mohammed Quddus
+  - Washington Ochieng
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8238b
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.eswa.2024.123790
+  title: Developing a novel approach in estimating urban commute traffic by integrating
+    community detection and hypergraph representation learning
+  authors:
+  - Yuhuan Li
+  - Shaowu Cheng
+  - Yuxiang Feng
+  - Yaping Zhang
+  - Panagiotis Angeloudis
+  - Mohammed Quddus
+  - Washington Yotto Ochieng
+  publisher: Expert Systems with Applications
+  date: '2024-09-01'
+  link: https://doi.org/g8238c
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.device.2024.100431
+  title: 'Driving intention understanding for autonomous vehicles: Current approaches
+    and beyond'
+  authors:
+  - Yingji Xia
+  - Ningke Xie
+  - Li Li
+  - Panagiotis Angeloudis
+  - Der-Horng Lee
+  - Xiqun (Michael) Chen
+  publisher: Device
+  date: '2024-10-01'
+  link: https://doi.org/g8238d
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jairtraman.2023.102486
   title: 'An integrated vertiport placement model considering vehicle sizing and queuing:
     A case study in London'
@@ -1003,19 +1212,6 @@
   link: https://doi.org/gtm4hq
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/ITSC57777.2023.10422131
-  title: Real-time Dispatching for Autonomous Vehicles in Open-pit Mining Deployments
-    using Deep Reinforcement Learning
-  authors:
-  - Kenta Matsui
-  - Jose Escribano
-  - Panagiotis Angeloudis
-  publisher: 2023 IEEE 26th International Conference on Intelligent Transportation
-    Systems (ITSC)
-  date: '2023-09-24'
-  link: https://doi.org/gtm6gb
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/ITSC57777.2023.10422153
   title: 'Safety Standards for Autonomous Vehicles: Challenges and Way Forward'
   authors:
@@ -1047,9 +1243,6 @@
     Systems (ITSC)
   date: '2023-09-24'
   link: https://doi.org/gtm6gd
-  image: /images/papers/highlight-scenario.jpg
-  group:
-  - featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ITSC57777.2023.10422114

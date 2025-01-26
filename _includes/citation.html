@@ -31,18 +31,30 @@
       {% assign type = site.data.types[citation.type] %}
       {% include icon.html icon=type.icon %}
 
-      <a
+
+
+
+
+      <div class="citation-details">
+
+        <a
         {% if citation.link %}
           href="{{ citation.link | relative_url }}"
         {% endif %}
         class="citation-title"
       >
-        {{ citation.title | default: "[no title info]" }}
-      </a>
+      {{ citation.title | default: "[no title info]" }}</a>
+      &nbsp;
+      <span class="citation-date">
+        ({{- citation.date | default: "[no date info]" | date: "%Y" -}})
+      </span>
 
-      <div
+      &nbsp;·&nbsp;
+
+
+        <span
         class="citation-authors"
-        {% if citation.authors.size > 10 %}
+        {% if citation.authors.size > 3 %}
           data-tooltip="{{ citation.authors | join: ", " }} "
         {% endif %}
         tabindex="0"
@@ -51,21 +63,16 @@
           citation.authors
           | join: ","
           | split: ","
-          | array_carve: 5
+          | array_carve: 2
           | join: ", "
           | markdownify
           | remove: "<p>" | remove: "</p>"
           | default: "[no author info]"
         }}
-      </div>
-
-      <div class="citation-details">
+      </span>
+        &nbsp;·&nbsp;
         <span class="citation-publisher">
           {{- citation.publisher | default: "[no publisher info]" -}}
-        </span>
-        &nbsp;·&nbsp;
-        <span class="citation-date">
-          {{- citation.date | default: "[no date info]" | date: "%b %Y" -}}
         </span>
       </div>
 

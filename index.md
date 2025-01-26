@@ -36,27 +36,34 @@ Our research and algorithms enable transport operators to maximise **operational
 
 Our group is led by [**Prof Panagiotis Angeloudis**](/members/angeloudis-p), and is affiliated with the **Imperial Robotics Forum**, the **Alan Turing Institute** and the **Institute for Security Science and Technology**.
 
-<!-- 
-{%
-  include figure.html
-  image="images/team/team.jpg"
-%} -->
 
 
+
+{% include section.html %}
+
+#### Our Themes
+
+{% include list.html component="card" data="projects" filters="group: theme" style="small" %}
+
+
+
+{% include section.html %}
+
+### Publication Highlights
+
+{% include list.html data="citations"  filters="group: featured" hideyear="true" component="citation"  %}
 
 {%
   include button.html
   link="papers"
-  text="Recent publications"
+  text="All publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
 
 
-
-
-{% capture text %}
+{% capture text_team %}
 
 Our researchers benefit from the strong links of our group with other laboratories within the Imperial College community, external collaborators, and industry partners. Our alumni have achieved success in academia, secured influential roles in industry, or launched their own startups.
 
@@ -82,23 +89,9 @@ Our researchers benefit from the strong links of our group with other laboratori
 
 {% endcapture %}
 
-{% include section.html %}
-
-#### Our Themes
-
-{% include list.html component="card" data="projects" filters="group: theme" style="small" %}
-
-
-
-
 
 
 {% include section.html %}
-
-
-
-
-
 
 {%
   include feature.html
@@ -106,8 +99,10 @@ Our researchers benefit from the strong links of our group with other laboratori
   link="team"
   title="Our Team"
   style="bare"
-  text=text
+  text=text_team
 %}
+
+
 
 
 {% include section.html %}
