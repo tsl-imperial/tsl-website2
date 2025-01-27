@@ -1,8 +1,7 @@
 ---
-title: Join us
+title: Apply
 nav:
   order: 4
-  tooltip: Join us!
 redirect_from: 
   - recruitment
 ---
@@ -10,9 +9,9 @@ redirect_from:
 
 # Join us
 
-We receive a high volume of admissions inquiries and endeavor to respond to all. To enhance the likelihood of a favorable reply, please ensure you have read the guidance provided below. Should you meet our admissions requirements, we encourage you to reach out to our director [Dr Angeloudis](mailto:p.angeloudis@imperial.ac.uk), for a preliminary discussion.
+We receive a high volume of admissions inquiries and endeavor to respond to all. To enhance the likelihood of a favorable reply, please follow the guidance below. We encourage you to reach out to our director [Prof Angeloudis](mailto:p.angeloudis@imperial.ac.uk), for a preliminary discussion.
 
-We also recommend reviewing the general admission information provided on the central College [website](https://www.imperial.ac.uk/study/pg/apply/how-to-apply/apply-for-a-research-programme-/).
+Please also review the general admission information provided on the central College [website](https://www.imperial.ac.uk/study/pg/apply/how-to-apply/apply-for-a-research-programme-/).
 
 {% include section.html %}
 
@@ -46,9 +45,16 @@ A variety of scholarships are available, and further information on key dates an
 
 - **College-wide scholarships** are listed [**here**](https://www.imperial.ac.uk/study/fees-and-funding/scholarships-search/).
 - Scholarships offered by the **Department of Civil & Environmental Engineering** are advertised [**here**](https://www.imperial.ac.uk/civil-engineering/prospective-students/postgraduate-research-admissions-phd/department-scholarships/).
+- Many of our researchers also receive funding through scholarship schemes from their home countries.
 
 
-Please keep in mind that these programs are highly competitive, and we will only nominate applicants who graduated with summa cum laude honors (top 1-3% of their year). Many of our researchers also receive funding through scholarship schemes from their home countries.
+{% capture lorem %}
+Please keep in mind that our scholarships are in high demand, and we will only nominate applicants who graduated with summa cum laude honors (top 1-3% of their year). 
+{% endcapture %}
+{% capture content %}{{ lorem }}{% endcapture %}
+{% include alert.html type="tip" content=content %}
+
+
 
 
 ##### When should I submit my application?

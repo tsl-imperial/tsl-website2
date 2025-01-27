@@ -41,7 +41,7 @@ Our group is led by [**Prof Panagiotis Angeloudis**](/members/angeloudis-p), and
 
 {% include section.html %}
 
-#### Our Themes
+#### Our themes
 
 {% include list.html component="card" data="projects" filters="group: theme" style="small" %}
 
@@ -49,7 +49,7 @@ Our group is led by [**Prof Panagiotis Angeloudis**](/members/angeloudis-p), and
 
 {% include section.html %}
 
-### Publication Highlights
+### Publication highlights
 
 {% include list.html data="citations"  filters="group: featured" hideyear="true" component="citation"  %}
 
@@ -65,9 +65,11 @@ Our group is led by [**Prof Panagiotis Angeloudis**](/members/angeloudis-p), and
 
 {% capture text_team %}
 
-Our researchers benefit from the strong links of our group with other laboratories within the Imperial College community, external collaborators, and industry partners. Our alumni have achieved success in academia, secured influential roles in industry, or launched their own startups.
+Our team benefits from strong links with other labs within Imperial, external collaborators, and industry partners. 
 
-**Join us:** We are looking for talented researchers to join our team, and to contribute to the development of next generation of models and technologies for transport systems and logistics. Several sholarships are available for qualified applicants.
+Our alumni have achieved success in academia, hold influential roles in industry, or launched their own startups.
+
+**Join us:** We are looking for talented researchers to join us. Sholarships are available for qualified applicants.
 
 {%
   include button.html
@@ -91,15 +93,13 @@ Our researchers benefit from the strong links of our group with other laboratori
 
 
 
-
-
 {% include section.html %}
 
 {%
   include feature.html
   image="images/img_team.jpg"
   link="team"
-  title="Our Team"
+  title="Our team"
   style="bare"
   text=text_team
 %}
@@ -109,7 +109,7 @@ Our researchers benefit from the strong links of our group with other laboratori
 
 {% include section.html %}
 
-#### Our Funders
+#### Our funders
 
 
 {% capture col1 %}
