@@ -69,7 +69,7 @@ Our team benefits from strong links with other labs within Imperial, external co
 
 Our alumni have achieved success in academia, hold influential roles in industry, or launched their own startups.
 
-**Join us:** We are looking for talented researchers to join us. Sholarships are available for qualified applicants.
+**Join us:** We welcome applications from talented researchers. Sholarships are available for qualified applicants.
 
 {%
   include button.html
