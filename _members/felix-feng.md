@@ -1,6 +1,6 @@
 ---
 name: Felix Feng
-position: Research Associate & Laboratory Manager
+position: Research Fellow & Laboratory Manager
 image: images/team/feng-f.jpg
 role: senior
 education: 
@@ -19,7 +19,7 @@ links:
   github: Felix-Feng-90
 ---
 
-Felix (Yuxiang) Feng is a Research Associate at the Transport Systems and Logistics Laboratory in the Centre for Transport studies. His current research focuses on the the use of automotive system models to facilitate the safety validation of autonomous vehicles.  
+Felix (Yuxiang) Feng is a Research Fellow at the Transport Systems and Logistics Laboratory in the Centre for Transport Engineering and Modelling. His current research focuses on the the use of automotive system models to facilitate the safety validation of autonomous vehicles.  
 
 The primary aim of his work is to develop highly configurable models of automotive systems, that simulate the motions host vehicles and their interactions with other road users. 
 
