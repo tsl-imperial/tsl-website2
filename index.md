@@ -30,13 +30,9 @@ redirect_from:
 ---
 
 
-The **Transport Systems & Logistics Laboratory** at Imperial College London undertakes research in transport operations, with an emphasis on **computational optimisation**, **autonomous technologies**, and **artificial intelligence**.
-
-Our research and algorithms enable transport operators to maximise **operational efficiency** and provide **strategic resilience** against systemic disruptions.
+The **Transport Systems & Logistics Laboratory** at **Imperial College London** focuses on transport operations, with emphasis on computational optimisation, autonomy and logistics.
 
 Our group is led by [**Prof Panagiotis Angeloudis**](/members/angeloudis-p), and is affiliated with the **Imperial Robotics Forum**, the **Alan Turing Institute** and the **Institute for Security Science and Technology**.
-
-
 
 
 {% include section.html %}
